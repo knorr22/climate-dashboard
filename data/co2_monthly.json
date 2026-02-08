@@ -1,0 +1,4083 @@
+{
+  "source": "NOAA Global Monitoring Laboratory",
+  "location": "Mauna Loa Observatory, Hawaii",
+  "unit": "ppm",
+  "last_updated": "2026-02-08T15:56:16.913531Z",
+  "data": [
+    {
+      "year": 1958,
+      "month": 3,
+      "average": 315.71
+    },
+    {
+      "year": 1958,
+      "month": 4,
+      "average": 317.45
+    },
+    {
+      "year": 1958,
+      "month": 5,
+      "average": 317.51
+    },
+    {
+      "year": 1958,
+      "month": 6,
+      "average": 317.27
+    },
+    {
+      "year": 1958,
+      "month": 7,
+      "average": 315.87
+    },
+    {
+      "year": 1958,
+      "month": 8,
+      "average": 314.93
+    },
+    {
+      "year": 1958,
+      "month": 9,
+      "average": 313.21
+    },
+    {
+      "year": 1958,
+      "month": 10,
+      "average": 312.42
+    },
+    {
+      "year": 1958,
+      "month": 11,
+      "average": 313.33
+    },
+    {
+      "year": 1958,
+      "month": 12,
+      "average": 314.67
+    },
+    {
+      "year": 1959,
+      "month": 1,
+      "average": 315.58
+    },
+    {
+      "year": 1959,
+      "month": 2,
+      "average": 316.49
+    },
+    {
+      "year": 1959,
+      "month": 3,
+      "average": 316.65
+    },
+    {
+      "year": 1959,
+      "month": 4,
+      "average": 317.72
+    },
+    {
+      "year": 1959,
+      "month": 5,
+      "average": 318.29
+    },
+    {
+      "year": 1959,
+      "month": 6,
+      "average": 318.15
+    },
+    {
+      "year": 1959,
+      "month": 7,
+      "average": 316.54
+    },
+    {
+      "year": 1959,
+      "month": 8,
+      "average": 314.8
+    },
+    {
+      "year": 1959,
+      "month": 9,
+      "average": 313.84
+    },
+    {
+      "year": 1959,
+      "month": 10,
+      "average": 313.33
+    },
+    {
+      "year": 1959,
+      "month": 11,
+      "average": 314.81
+    },
+    {
+      "year": 1959,
+      "month": 12,
+      "average": 315.58
+    },
+    {
+      "year": 1960,
+      "month": 1,
+      "average": 316.43
+    },
+    {
+      "year": 1960,
+      "month": 2,
+      "average": 316.98
+    },
+    {
+      "year": 1960,
+      "month": 3,
+      "average": 317.58
+    },
+    {
+      "year": 1960,
+      "month": 4,
+      "average": 319.03
+    },
+    {
+      "year": 1960,
+      "month": 5,
+      "average": 320.03
+    },
+    {
+      "year": 1960,
+      "month": 6,
+      "average": 319.58
+    },
+    {
+      "year": 1960,
+      "month": 7,
+      "average": 318.18
+    },
+    {
+      "year": 1960,
+      "month": 8,
+      "average": 315.9
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "average": 314.17
+    },
+    {
+      "year": 1960,
+      "month": 10,
+      "average": 313.83
+    },
+    {
+      "year": 1960,
+      "month": 11,
+      "average": 315.0
+    },
+    {
+      "year": 1960,
+      "month": 12,
+      "average": 316.19
+    },
+    {
+      "year": 1961,
+      "month": 1,
+      "average": 316.89
+    },
+    {
+      "year": 1961,
+      "month": 2,
+      "average": 317.7
+    },
+    {
+      "year": 1961,
+      "month": 3,
+      "average": 318.54
+    },
+    {
+      "year": 1961,
+      "month": 4,
+      "average": 319.48
+    },
+    {
+      "year": 1961,
+      "month": 5,
+      "average": 320.58
+    },
+    {
+      "year": 1961,
+      "month": 6,
+      "average": 319.77
+    },
+    {
+      "year": 1961,
+      "month": 7,
+      "average": 318.56
+    },
+    {
+      "year": 1961,
+      "month": 8,
+      "average": 316.79
+    },
+    {
+      "year": 1961,
+      "month": 9,
+      "average": 314.99
+    },
+    {
+      "year": 1961,
+      "month": 10,
+      "average": 315.31
+    },
+    {
+      "year": 1961,
+      "month": 11,
+      "average": 316.1
+    },
+    {
+      "year": 1961,
+      "month": 12,
+      "average": 317.01
+    },
+    {
+      "year": 1962,
+      "month": 1,
+      "average": 317.94
+    },
+    {
+      "year": 1962,
+      "month": 2,
+      "average": 318.55
+    },
+    {
+      "year": 1962,
+      "month": 3,
+      "average": 319.68
+    },
+    {
+      "year": 1962,
+      "month": 4,
+      "average": 320.57
+    },
+    {
+      "year": 1962,
+      "month": 5,
+      "average": 321.02
+    },
+    {
+      "year": 1962,
+      "month": 6,
+      "average": 320.62
+    },
+    {
+      "year": 1962,
+      "month": 7,
+      "average": 319.61
+    },
+    {
+      "year": 1962,
+      "month": 8,
+      "average": 317.4
+    },
+    {
+      "year": 1962,
+      "month": 9,
+      "average": 316.24
+    },
+    {
+      "year": 1962,
+      "month": 10,
+      "average": 315.42
+    },
+    {
+      "year": 1962,
+      "month": 11,
+      "average": 316.69
+    },
+    {
+      "year": 1962,
+      "month": 12,
+      "average": 317.7
+    },
+    {
+      "year": 1963,
+      "month": 1,
+      "average": 318.74
+    },
+    {
+      "year": 1963,
+      "month": 2,
+      "average": 319.07
+    },
+    {
+      "year": 1963,
+      "month": 3,
+      "average": 319.86
+    },
+    {
+      "year": 1963,
+      "month": 4,
+      "average": 321.38
+    },
+    {
+      "year": 1963,
+      "month": 5,
+      "average": 322.24
+    },
+    {
+      "year": 1963,
+      "month": 6,
+      "average": 321.49
+    },
+    {
+      "year": 1963,
+      "month": 7,
+      "average": 319.74
+    },
+    {
+      "year": 1963,
+      "month": 8,
+      "average": 317.77
+    },
+    {
+      "year": 1963,
+      "month": 9,
+      "average": 316.21
+    },
+    {
+      "year": 1963,
+      "month": 10,
+      "average": 315.99
+    },
+    {
+      "year": 1963,
+      "month": 11,
+      "average": 317.07
+    },
+    {
+      "year": 1963,
+      "month": 12,
+      "average": 318.35
+    },
+    {
+      "year": 1964,
+      "month": 1,
+      "average": 319.57
+    },
+    {
+      "year": 1964,
+      "month": 2,
+      "average": 320.04
+    },
+    {
+      "year": 1964,
+      "month": 3,
+      "average": 320.75
+    },
+    {
+      "year": 1964,
+      "month": 4,
+      "average": 321.84
+    },
+    {
+      "year": 1964,
+      "month": 5,
+      "average": 322.25
+    },
+    {
+      "year": 1964,
+      "month": 6,
+      "average": 321.89
+    },
+    {
+      "year": 1964,
+      "month": 7,
+      "average": 320.44
+    },
+    {
+      "year": 1964,
+      "month": 8,
+      "average": 318.69
+    },
+    {
+      "year": 1964,
+      "month": 9,
+      "average": 316.71
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "average": 316.87
+    },
+    {
+      "year": 1964,
+      "month": 11,
+      "average": 317.68
+    },
+    {
+      "year": 1964,
+      "month": 12,
+      "average": 318.71
+    },
+    {
+      "year": 1965,
+      "month": 1,
+      "average": 319.44
+    },
+    {
+      "year": 1965,
+      "month": 2,
+      "average": 320.44
+    },
+    {
+      "year": 1965,
+      "month": 3,
+      "average": 320.89
+    },
+    {
+      "year": 1965,
+      "month": 4,
+      "average": 322.14
+    },
+    {
+      "year": 1965,
+      "month": 5,
+      "average": 322.17
+    },
+    {
+      "year": 1965,
+      "month": 6,
+      "average": 321.87
+    },
+    {
+      "year": 1965,
+      "month": 7,
+      "average": 321.21
+    },
+    {
+      "year": 1965,
+      "month": 8,
+      "average": 318.87
+    },
+    {
+      "year": 1965,
+      "month": 9,
+      "average": 317.82
+    },
+    {
+      "year": 1965,
+      "month": 10,
+      "average": 317.3
+    },
+    {
+      "year": 1965,
+      "month": 11,
+      "average": 318.87
+    },
+    {
+      "year": 1965,
+      "month": 12,
+      "average": 319.42
+    },
+    {
+      "year": 1966,
+      "month": 1,
+      "average": 320.62
+    },
+    {
+      "year": 1966,
+      "month": 2,
+      "average": 321.6
+    },
+    {
+      "year": 1966,
+      "month": 3,
+      "average": 322.39
+    },
+    {
+      "year": 1966,
+      "month": 4,
+      "average": 323.7
+    },
+    {
+      "year": 1966,
+      "month": 5,
+      "average": 324.08
+    },
+    {
+      "year": 1966,
+      "month": 6,
+      "average": 323.75
+    },
+    {
+      "year": 1966,
+      "month": 7,
+      "average": 322.37
+    },
+    {
+      "year": 1966,
+      "month": 8,
+      "average": 320.36
+    },
+    {
+      "year": 1966,
+      "month": 9,
+      "average": 318.64
+    },
+    {
+      "year": 1966,
+      "month": 10,
+      "average": 318.1
+    },
+    {
+      "year": 1966,
+      "month": 11,
+      "average": 319.78
+    },
+    {
+      "year": 1966,
+      "month": 12,
+      "average": 321.02
+    },
+    {
+      "year": 1967,
+      "month": 1,
+      "average": 322.33
+    },
+    {
+      "year": 1967,
+      "month": 2,
+      "average": 322.5
+    },
+    {
+      "year": 1967,
+      "month": 3,
+      "average": 323.03
+    },
+    {
+      "year": 1967,
+      "month": 4,
+      "average": 324.41
+    },
+    {
+      "year": 1967,
+      "month": 5,
+      "average": 325.0
+    },
+    {
+      "year": 1967,
+      "month": 6,
+      "average": 324.09
+    },
+    {
+      "year": 1967,
+      "month": 7,
+      "average": 322.54
+    },
+    {
+      "year": 1967,
+      "month": 8,
+      "average": 320.92
+    },
+    {
+      "year": 1967,
+      "month": 9,
+      "average": 319.25
+    },
+    {
+      "year": 1967,
+      "month": 10,
+      "average": 319.39
+    },
+    {
+      "year": 1967,
+      "month": 11,
+      "average": 320.73
+    },
+    {
+      "year": 1967,
+      "month": 12,
+      "average": 321.96
+    },
+    {
+      "year": 1968,
+      "month": 1,
+      "average": 322.57
+    },
+    {
+      "year": 1968,
+      "month": 2,
+      "average": 323.15
+    },
+    {
+      "year": 1968,
+      "month": 3,
+      "average": 323.89
+    },
+    {
+      "year": 1968,
+      "month": 4,
+      "average": 325.02
+    },
+    {
+      "year": 1968,
+      "month": 5,
+      "average": 325.57
+    },
+    {
+      "year": 1968,
+      "month": 6,
+      "average": 325.36
+    },
+    {
+      "year": 1968,
+      "month": 7,
+      "average": 324.14
+    },
+    {
+      "year": 1968,
+      "month": 8,
+      "average": 322.11
+    },
+    {
+      "year": 1968,
+      "month": 9,
+      "average": 320.33
+    },
+    {
+      "year": 1968,
+      "month": 10,
+      "average": 320.25
+    },
+    {
+      "year": 1968,
+      "month": 11,
+      "average": 321.32
+    },
+    {
+      "year": 1968,
+      "month": 12,
+      "average": 322.89
+    },
+    {
+      "year": 1969,
+      "month": 1,
+      "average": 324.0
+    },
+    {
+      "year": 1969,
+      "month": 2,
+      "average": 324.41
+    },
+    {
+      "year": 1969,
+      "month": 3,
+      "average": 325.63
+    },
+    {
+      "year": 1969,
+      "month": 4,
+      "average": 326.66
+    },
+    {
+      "year": 1969,
+      "month": 5,
+      "average": 327.38
+    },
+    {
+      "year": 1969,
+      "month": 6,
+      "average": 326.71
+    },
+    {
+      "year": 1969,
+      "month": 7,
+      "average": 325.88
+    },
+    {
+      "year": 1969,
+      "month": 8,
+      "average": 323.66
+    },
+    {
+      "year": 1969,
+      "month": 9,
+      "average": 322.38
+    },
+    {
+      "year": 1969,
+      "month": 10,
+      "average": 321.78
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "average": 322.85
+    },
+    {
+      "year": 1969,
+      "month": 12,
+      "average": 324.11
+    },
+    {
+      "year": 1970,
+      "month": 1,
+      "average": 325.06
+    },
+    {
+      "year": 1970,
+      "month": 2,
+      "average": 325.99
+    },
+    {
+      "year": 1970,
+      "month": 3,
+      "average": 326.93
+    },
+    {
+      "year": 1970,
+      "month": 4,
+      "average": 328.13
+    },
+    {
+      "year": 1970,
+      "month": 5,
+      "average": 328.08
+    },
+    {
+      "year": 1970,
+      "month": 6,
+      "average": 327.67
+    },
+    {
+      "year": 1970,
+      "month": 7,
+      "average": 326.34
+    },
+    {
+      "year": 1970,
+      "month": 8,
+      "average": 324.68
+    },
+    {
+      "year": 1970,
+      "month": 9,
+      "average": 323.1
+    },
+    {
+      "year": 1970,
+      "month": 10,
+      "average": 323.06
+    },
+    {
+      "year": 1970,
+      "month": 11,
+      "average": 324.01
+    },
+    {
+      "year": 1970,
+      "month": 12,
+      "average": 325.13
+    },
+    {
+      "year": 1971,
+      "month": 1,
+      "average": 326.17
+    },
+    {
+      "year": 1971,
+      "month": 2,
+      "average": 326.69
+    },
+    {
+      "year": 1971,
+      "month": 3,
+      "average": 327.18
+    },
+    {
+      "year": 1971,
+      "month": 4,
+      "average": 327.78
+    },
+    {
+      "year": 1971,
+      "month": 5,
+      "average": 328.93
+    },
+    {
+      "year": 1971,
+      "month": 6,
+      "average": 328.57
+    },
+    {
+      "year": 1971,
+      "month": 7,
+      "average": 327.36
+    },
+    {
+      "year": 1971,
+      "month": 8,
+      "average": 325.43
+    },
+    {
+      "year": 1971,
+      "month": 9,
+      "average": 323.36
+    },
+    {
+      "year": 1971,
+      "month": 10,
+      "average": 323.56
+    },
+    {
+      "year": 1971,
+      "month": 11,
+      "average": 324.8
+    },
+    {
+      "year": 1971,
+      "month": 12,
+      "average": 326.01
+    },
+    {
+      "year": 1972,
+      "month": 1,
+      "average": 326.77
+    },
+    {
+      "year": 1972,
+      "month": 2,
+      "average": 327.63
+    },
+    {
+      "year": 1972,
+      "month": 3,
+      "average": 327.75
+    },
+    {
+      "year": 1972,
+      "month": 4,
+      "average": 329.72
+    },
+    {
+      "year": 1972,
+      "month": 5,
+      "average": 330.07
+    },
+    {
+      "year": 1972,
+      "month": 6,
+      "average": 329.09
+    },
+    {
+      "year": 1972,
+      "month": 7,
+      "average": 328.04
+    },
+    {
+      "year": 1972,
+      "month": 8,
+      "average": 326.32
+    },
+    {
+      "year": 1972,
+      "month": 9,
+      "average": 324.84
+    },
+    {
+      "year": 1972,
+      "month": 10,
+      "average": 325.2
+    },
+    {
+      "year": 1972,
+      "month": 11,
+      "average": 326.5
+    },
+    {
+      "year": 1972,
+      "month": 12,
+      "average": 327.55
+    },
+    {
+      "year": 1973,
+      "month": 1,
+      "average": 328.55
+    },
+    {
+      "year": 1973,
+      "month": 2,
+      "average": 329.57
+    },
+    {
+      "year": 1973,
+      "month": 3,
+      "average": 330.3
+    },
+    {
+      "year": 1973,
+      "month": 4,
+      "average": 331.5
+    },
+    {
+      "year": 1973,
+      "month": 5,
+      "average": 332.48
+    },
+    {
+      "year": 1973,
+      "month": 6,
+      "average": 332.07
+    },
+    {
+      "year": 1973,
+      "month": 7,
+      "average": 330.87
+    },
+    {
+      "year": 1973,
+      "month": 8,
+      "average": 329.31
+    },
+    {
+      "year": 1973,
+      "month": 9,
+      "average": 327.52
+    },
+    {
+      "year": 1973,
+      "month": 10,
+      "average": 327.19
+    },
+    {
+      "year": 1973,
+      "month": 11,
+      "average": 328.17
+    },
+    {
+      "year": 1973,
+      "month": 12,
+      "average": 328.65
+    },
+    {
+      "year": 1974,
+      "month": 1,
+      "average": 329.36
+    },
+    {
+      "year": 1974,
+      "month": 2,
+      "average": 330.71
+    },
+    {
+      "year": 1974,
+      "month": 3,
+      "average": 331.49
+    },
+    {
+      "year": 1974,
+      "month": 4,
+      "average": 332.65
+    },
+    {
+      "year": 1974,
+      "month": 5,
+      "average": 333.19
+    },
+    {
+      "year": 1974,
+      "month": 6,
+      "average": 332.2
+    },
+    {
+      "year": 1974,
+      "month": 7,
+      "average": 331.07
+    },
+    {
+      "year": 1974,
+      "month": 8,
+      "average": 329.15
+    },
+    {
+      "year": 1974,
+      "month": 9,
+      "average": 327.33
+    },
+    {
+      "year": 1974,
+      "month": 10,
+      "average": 327.28
+    },
+    {
+      "year": 1974,
+      "month": 11,
+      "average": 328.31
+    },
+    {
+      "year": 1974,
+      "month": 12,
+      "average": 329.58
+    },
+    {
+      "year": 1975,
+      "month": 1,
+      "average": 330.73
+    },
+    {
+      "year": 1975,
+      "month": 2,
+      "average": 331.46
+    },
+    {
+      "year": 1975,
+      "month": 3,
+      "average": 331.94
+    },
+    {
+      "year": 1975,
+      "month": 4,
+      "average": 333.11
+    },
+    {
+      "year": 1975,
+      "month": 5,
+      "average": 333.95
+    },
+    {
+      "year": 1975,
+      "month": 6,
+      "average": 333.42
+    },
+    {
+      "year": 1975,
+      "month": 7,
+      "average": 331.97
+    },
+    {
+      "year": 1975,
+      "month": 8,
+      "average": 329.95
+    },
+    {
+      "year": 1975,
+      "month": 9,
+      "average": 328.49
+    },
+    {
+      "year": 1975,
+      "month": 10,
+      "average": 328.36
+    },
+    {
+      "year": 1975,
+      "month": 11,
+      "average": 329.38
+    },
+    {
+      "year": 1975,
+      "month": 12,
+      "average": 330.76
+    },
+    {
+      "year": 1976,
+      "month": 1,
+      "average": 331.56
+    },
+    {
+      "year": 1976,
+      "month": 2,
+      "average": 332.74
+    },
+    {
+      "year": 1976,
+      "month": 3,
+      "average": 333.36
+    },
+    {
+      "year": 1976,
+      "month": 4,
+      "average": 334.74
+    },
+    {
+      "year": 1976,
+      "month": 5,
+      "average": 334.72
+    },
+    {
+      "year": 1976,
+      "month": 6,
+      "average": 333.97
+    },
+    {
+      "year": 1976,
+      "month": 7,
+      "average": 333.08
+    },
+    {
+      "year": 1976,
+      "month": 8,
+      "average": 330.68
+    },
+    {
+      "year": 1976,
+      "month": 9,
+      "average": 328.96
+    },
+    {
+      "year": 1976,
+      "month": 10,
+      "average": 328.72
+    },
+    {
+      "year": 1976,
+      "month": 11,
+      "average": 330.16
+    },
+    {
+      "year": 1976,
+      "month": 12,
+      "average": 331.62
+    },
+    {
+      "year": 1977,
+      "month": 1,
+      "average": 332.68
+    },
+    {
+      "year": 1977,
+      "month": 2,
+      "average": 333.17
+    },
+    {
+      "year": 1977,
+      "month": 3,
+      "average": 334.96
+    },
+    {
+      "year": 1977,
+      "month": 4,
+      "average": 336.14
+    },
+    {
+      "year": 1977,
+      "month": 5,
+      "average": 336.93
+    },
+    {
+      "year": 1977,
+      "month": 6,
+      "average": 336.17
+    },
+    {
+      "year": 1977,
+      "month": 7,
+      "average": 334.89
+    },
+    {
+      "year": 1977,
+      "month": 8,
+      "average": 332.56
+    },
+    {
+      "year": 1977,
+      "month": 9,
+      "average": 331.29
+    },
+    {
+      "year": 1977,
+      "month": 10,
+      "average": 331.28
+    },
+    {
+      "year": 1977,
+      "month": 11,
+      "average": 332.46
+    },
+    {
+      "year": 1977,
+      "month": 12,
+      "average": 333.6
+    },
+    {
+      "year": 1978,
+      "month": 1,
+      "average": 334.94
+    },
+    {
+      "year": 1978,
+      "month": 2,
+      "average": 335.26
+    },
+    {
+      "year": 1978,
+      "month": 3,
+      "average": 336.66
+    },
+    {
+      "year": 1978,
+      "month": 4,
+      "average": 337.69
+    },
+    {
+      "year": 1978,
+      "month": 5,
+      "average": 338.02
+    },
+    {
+      "year": 1978,
+      "month": 6,
+      "average": 338.01
+    },
+    {
+      "year": 1978,
+      "month": 7,
+      "average": 336.5
+    },
+    {
+      "year": 1978,
+      "month": 8,
+      "average": 334.42
+    },
+    {
+      "year": 1978,
+      "month": 9,
+      "average": 332.36
+    },
+    {
+      "year": 1978,
+      "month": 10,
+      "average": 332.45
+    },
+    {
+      "year": 1978,
+      "month": 11,
+      "average": 333.76
+    },
+    {
+      "year": 1978,
+      "month": 12,
+      "average": 334.91
+    },
+    {
+      "year": 1979,
+      "month": 1,
+      "average": 336.14
+    },
+    {
+      "year": 1979,
+      "month": 2,
+      "average": 336.69
+    },
+    {
+      "year": 1979,
+      "month": 3,
+      "average": 338.27
+    },
+    {
+      "year": 1979,
+      "month": 4,
+      "average": 338.82
+    },
+    {
+      "year": 1979,
+      "month": 5,
+      "average": 339.24
+    },
+    {
+      "year": 1979,
+      "month": 6,
+      "average": 339.26
+    },
+    {
+      "year": 1979,
+      "month": 7,
+      "average": 337.54
+    },
+    {
+      "year": 1979,
+      "month": 8,
+      "average": 335.72
+    },
+    {
+      "year": 1979,
+      "month": 9,
+      "average": 333.97
+    },
+    {
+      "year": 1979,
+      "month": 10,
+      "average": 334.24
+    },
+    {
+      "year": 1979,
+      "month": 11,
+      "average": 335.32
+    },
+    {
+      "year": 1979,
+      "month": 12,
+      "average": 336.81
+    },
+    {
+      "year": 1980,
+      "month": 1,
+      "average": 337.9
+    },
+    {
+      "year": 1980,
+      "month": 2,
+      "average": 338.34
+    },
+    {
+      "year": 1980,
+      "month": 3,
+      "average": 340.07
+    },
+    {
+      "year": 1980,
+      "month": 4,
+      "average": 340.93
+    },
+    {
+      "year": 1980,
+      "month": 5,
+      "average": 341.45
+    },
+    {
+      "year": 1980,
+      "month": 6,
+      "average": 341.36
+    },
+    {
+      "year": 1980,
+      "month": 7,
+      "average": 339.45
+    },
+    {
+      "year": 1980,
+      "month": 8,
+      "average": 337.67
+    },
+    {
+      "year": 1980,
+      "month": 9,
+      "average": 336.25
+    },
+    {
+      "year": 1980,
+      "month": 10,
+      "average": 336.14
+    },
+    {
+      "year": 1980,
+      "month": 11,
+      "average": 337.3
+    },
+    {
+      "year": 1980,
+      "month": 12,
+      "average": 338.29
+    },
+    {
+      "year": 1981,
+      "month": 1,
+      "average": 339.29
+    },
+    {
+      "year": 1981,
+      "month": 2,
+      "average": 340.55
+    },
+    {
+      "year": 1981,
+      "month": 3,
+      "average": 341.63
+    },
+    {
+      "year": 1981,
+      "month": 4,
+      "average": 342.6
+    },
+    {
+      "year": 1981,
+      "month": 5,
+      "average": 343.04
+    },
+    {
+      "year": 1981,
+      "month": 6,
+      "average": 342.54
+    },
+    {
+      "year": 1981,
+      "month": 7,
+      "average": 340.82
+    },
+    {
+      "year": 1981,
+      "month": 8,
+      "average": 338.48
+    },
+    {
+      "year": 1981,
+      "month": 9,
+      "average": 336.95
+    },
+    {
+      "year": 1981,
+      "month": 10,
+      "average": 337.05
+    },
+    {
+      "year": 1981,
+      "month": 11,
+      "average": 338.58
+    },
+    {
+      "year": 1981,
+      "month": 12,
+      "average": 339.91
+    },
+    {
+      "year": 1982,
+      "month": 1,
+      "average": 340.93
+    },
+    {
+      "year": 1982,
+      "month": 2,
+      "average": 341.76
+    },
+    {
+      "year": 1982,
+      "month": 3,
+      "average": 342.78
+    },
+    {
+      "year": 1982,
+      "month": 4,
+      "average": 343.96
+    },
+    {
+      "year": 1982,
+      "month": 5,
+      "average": 344.77
+    },
+    {
+      "year": 1982,
+      "month": 6,
+      "average": 343.88
+    },
+    {
+      "year": 1982,
+      "month": 7,
+      "average": 342.42
+    },
+    {
+      "year": 1982,
+      "month": 8,
+      "average": 340.24
+    },
+    {
+      "year": 1982,
+      "month": 9,
+      "average": 338.37
+    },
+    {
+      "year": 1982,
+      "month": 10,
+      "average": 338.41
+    },
+    {
+      "year": 1982,
+      "month": 11,
+      "average": 339.44
+    },
+    {
+      "year": 1982,
+      "month": 12,
+      "average": 340.78
+    },
+    {
+      "year": 1983,
+      "month": 1,
+      "average": 341.57
+    },
+    {
+      "year": 1983,
+      "month": 2,
+      "average": 342.79
+    },
+    {
+      "year": 1983,
+      "month": 3,
+      "average": 343.37
+    },
+    {
+      "year": 1983,
+      "month": 4,
+      "average": 345.4
+    },
+    {
+      "year": 1983,
+      "month": 5,
+      "average": 346.14
+    },
+    {
+      "year": 1983,
+      "month": 6,
+      "average": 345.76
+    },
+    {
+      "year": 1983,
+      "month": 7,
+      "average": 344.32
+    },
+    {
+      "year": 1983,
+      "month": 8,
+      "average": 342.51
+    },
+    {
+      "year": 1983,
+      "month": 9,
+      "average": 340.46
+    },
+    {
+      "year": 1983,
+      "month": 10,
+      "average": 340.53
+    },
+    {
+      "year": 1983,
+      "month": 11,
+      "average": 341.79
+    },
+    {
+      "year": 1983,
+      "month": 12,
+      "average": 343.2
+    },
+    {
+      "year": 1984,
+      "month": 1,
+      "average": 344.21
+    },
+    {
+      "year": 1984,
+      "month": 2,
+      "average": 344.92
+    },
+    {
+      "year": 1984,
+      "month": 3,
+      "average": 345.68
+    },
+    {
+      "year": 1984,
+      "month": 4,
+      "average": 347.38
+    },
+    {
+      "year": 1984,
+      "month": 5,
+      "average": 347.77
+    },
+    {
+      "year": 1984,
+      "month": 6,
+      "average": 347.16
+    },
+    {
+      "year": 1984,
+      "month": 7,
+      "average": 345.79
+    },
+    {
+      "year": 1984,
+      "month": 8,
+      "average": 343.74
+    },
+    {
+      "year": 1984,
+      "month": 9,
+      "average": 341.59
+    },
+    {
+      "year": 1984,
+      "month": 10,
+      "average": 341.86
+    },
+    {
+      "year": 1984,
+      "month": 11,
+      "average": 343.31
+    },
+    {
+      "year": 1984,
+      "month": 12,
+      "average": 345.0
+    },
+    {
+      "year": 1985,
+      "month": 1,
+      "average": 345.48
+    },
+    {
+      "year": 1985,
+      "month": 2,
+      "average": 346.41
+    },
+    {
+      "year": 1985,
+      "month": 3,
+      "average": 347.91
+    },
+    {
+      "year": 1985,
+      "month": 4,
+      "average": 348.66
+    },
+    {
+      "year": 1985,
+      "month": 5,
+      "average": 349.28
+    },
+    {
+      "year": 1985,
+      "month": 6,
+      "average": 348.65
+    },
+    {
+      "year": 1985,
+      "month": 7,
+      "average": 346.9
+    },
+    {
+      "year": 1985,
+      "month": 8,
+      "average": 345.26
+    },
+    {
+      "year": 1985,
+      "month": 9,
+      "average": 343.47
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "average": 343.35
+    },
+    {
+      "year": 1985,
+      "month": 11,
+      "average": 344.73
+    },
+    {
+      "year": 1985,
+      "month": 12,
+      "average": 346.12
+    },
+    {
+      "year": 1986,
+      "month": 1,
+      "average": 346.78
+    },
+    {
+      "year": 1986,
+      "month": 2,
+      "average": 347.48
+    },
+    {
+      "year": 1986,
+      "month": 3,
+      "average": 348.25
+    },
+    {
+      "year": 1986,
+      "month": 4,
+      "average": 349.86
+    },
+    {
+      "year": 1986,
+      "month": 5,
+      "average": 350.52
+    },
+    {
+      "year": 1986,
+      "month": 6,
+      "average": 349.98
+    },
+    {
+      "year": 1986,
+      "month": 7,
+      "average": 348.25
+    },
+    {
+      "year": 1986,
+      "month": 8,
+      "average": 346.17
+    },
+    {
+      "year": 1986,
+      "month": 9,
+      "average": 345.48
+    },
+    {
+      "year": 1986,
+      "month": 10,
+      "average": 344.82
+    },
+    {
+      "year": 1986,
+      "month": 11,
+      "average": 346.22
+    },
+    {
+      "year": 1986,
+      "month": 12,
+      "average": 347.48
+    },
+    {
+      "year": 1987,
+      "month": 1,
+      "average": 348.73
+    },
+    {
+      "year": 1987,
+      "month": 2,
+      "average": 348.92
+    },
+    {
+      "year": 1987,
+      "month": 3,
+      "average": 349.81
+    },
+    {
+      "year": 1987,
+      "month": 4,
+      "average": 351.4
+    },
+    {
+      "year": 1987,
+      "month": 5,
+      "average": 352.15
+    },
+    {
+      "year": 1987,
+      "month": 6,
+      "average": 351.58
+    },
+    {
+      "year": 1987,
+      "month": 7,
+      "average": 350.21
+    },
+    {
+      "year": 1987,
+      "month": 8,
+      "average": 348.2
+    },
+    {
+      "year": 1987,
+      "month": 9,
+      "average": 346.66
+    },
+    {
+      "year": 1987,
+      "month": 10,
+      "average": 346.72
+    },
+    {
+      "year": 1987,
+      "month": 11,
+      "average": 348.08
+    },
+    {
+      "year": 1987,
+      "month": 12,
+      "average": 349.28
+    },
+    {
+      "year": 1988,
+      "month": 1,
+      "average": 350.51
+    },
+    {
+      "year": 1988,
+      "month": 2,
+      "average": 351.7
+    },
+    {
+      "year": 1988,
+      "month": 3,
+      "average": 352.5
+    },
+    {
+      "year": 1988,
+      "month": 4,
+      "average": 353.67
+    },
+    {
+      "year": 1988,
+      "month": 5,
+      "average": 354.35
+    },
+    {
+      "year": 1988,
+      "month": 6,
+      "average": 353.88
+    },
+    {
+      "year": 1988,
+      "month": 7,
+      "average": 352.8
+    },
+    {
+      "year": 1988,
+      "month": 8,
+      "average": 350.49
+    },
+    {
+      "year": 1988,
+      "month": 9,
+      "average": 348.97
+    },
+    {
+      "year": 1988,
+      "month": 10,
+      "average": 349.37
+    },
+    {
+      "year": 1988,
+      "month": 11,
+      "average": 350.42
+    },
+    {
+      "year": 1988,
+      "month": 12,
+      "average": 351.62
+    },
+    {
+      "year": 1989,
+      "month": 1,
+      "average": 353.07
+    },
+    {
+      "year": 1989,
+      "month": 2,
+      "average": 353.43
+    },
+    {
+      "year": 1989,
+      "month": 3,
+      "average": 354.08
+    },
+    {
+      "year": 1989,
+      "month": 4,
+      "average": 355.72
+    },
+    {
+      "year": 1989,
+      "month": 5,
+      "average": 355.95
+    },
+    {
+      "year": 1989,
+      "month": 6,
+      "average": 355.44
+    },
+    {
+      "year": 1989,
+      "month": 7,
+      "average": 354.05
+    },
+    {
+      "year": 1989,
+      "month": 8,
+      "average": 351.84
+    },
+    {
+      "year": 1989,
+      "month": 9,
+      "average": 350.09
+    },
+    {
+      "year": 1989,
+      "month": 10,
+      "average": 350.33
+    },
+    {
+      "year": 1989,
+      "month": 11,
+      "average": 351.55
+    },
+    {
+      "year": 1989,
+      "month": 12,
+      "average": 352.91
+    },
+    {
+      "year": 1990,
+      "month": 1,
+      "average": 353.86
+    },
+    {
+      "year": 1990,
+      "month": 2,
+      "average": 355.1
+    },
+    {
+      "year": 1990,
+      "month": 3,
+      "average": 355.75
+    },
+    {
+      "year": 1990,
+      "month": 4,
+      "average": 356.38
+    },
+    {
+      "year": 1990,
+      "month": 5,
+      "average": 357.38
+    },
+    {
+      "year": 1990,
+      "month": 6,
+      "average": 356.39
+    },
+    {
+      "year": 1990,
+      "month": 7,
+      "average": 354.89
+    },
+    {
+      "year": 1990,
+      "month": 8,
+      "average": 353.06
+    },
+    {
+      "year": 1990,
+      "month": 9,
+      "average": 351.38
+    },
+    {
+      "year": 1990,
+      "month": 10,
+      "average": 351.69
+    },
+    {
+      "year": 1990,
+      "month": 11,
+      "average": 353.14
+    },
+    {
+      "year": 1990,
+      "month": 12,
+      "average": 354.41
+    },
+    {
+      "year": 1991,
+      "month": 1,
+      "average": 354.93
+    },
+    {
+      "year": 1991,
+      "month": 2,
+      "average": 355.82
+    },
+    {
+      "year": 1991,
+      "month": 3,
+      "average": 357.33
+    },
+    {
+      "year": 1991,
+      "month": 4,
+      "average": 358.77
+    },
+    {
+      "year": 1991,
+      "month": 5,
+      "average": 359.23
+    },
+    {
+      "year": 1991,
+      "month": 6,
+      "average": 358.23
+    },
+    {
+      "year": 1991,
+      "month": 7,
+      "average": 356.3
+    },
+    {
+      "year": 1991,
+      "month": 8,
+      "average": 353.97
+    },
+    {
+      "year": 1991,
+      "month": 9,
+      "average": 352.34
+    },
+    {
+      "year": 1991,
+      "month": 10,
+      "average": 352.43
+    },
+    {
+      "year": 1991,
+      "month": 11,
+      "average": 353.89
+    },
+    {
+      "year": 1991,
+      "month": 12,
+      "average": 355.21
+    },
+    {
+      "year": 1992,
+      "month": 1,
+      "average": 356.34
+    },
+    {
+      "year": 1992,
+      "month": 2,
+      "average": 357.21
+    },
+    {
+      "year": 1992,
+      "month": 3,
+      "average": 357.97
+    },
+    {
+      "year": 1992,
+      "month": 4,
+      "average": 359.22
+    },
+    {
+      "year": 1992,
+      "month": 5,
+      "average": 359.71
+    },
+    {
+      "year": 1992,
+      "month": 6,
+      "average": 359.44
+    },
+    {
+      "year": 1992,
+      "month": 7,
+      "average": 357.15
+    },
+    {
+      "year": 1992,
+      "month": 8,
+      "average": 354.99
+    },
+    {
+      "year": 1992,
+      "month": 9,
+      "average": 353.01
+    },
+    {
+      "year": 1992,
+      "month": 10,
+      "average": 353.4
+    },
+    {
+      "year": 1992,
+      "month": 11,
+      "average": 354.42
+    },
+    {
+      "year": 1992,
+      "month": 12,
+      "average": 355.68
+    },
+    {
+      "year": 1993,
+      "month": 1,
+      "average": 357.1
+    },
+    {
+      "year": 1993,
+      "month": 2,
+      "average": 357.42
+    },
+    {
+      "year": 1993,
+      "month": 3,
+      "average": 358.59
+    },
+    {
+      "year": 1993,
+      "month": 4,
+      "average": 359.39
+    },
+    {
+      "year": 1993,
+      "month": 5,
+      "average": 360.3
+    },
+    {
+      "year": 1993,
+      "month": 6,
+      "average": 359.64
+    },
+    {
+      "year": 1993,
+      "month": 7,
+      "average": 357.45
+    },
+    {
+      "year": 1993,
+      "month": 8,
+      "average": 355.76
+    },
+    {
+      "year": 1993,
+      "month": 9,
+      "average": 354.14
+    },
+    {
+      "year": 1993,
+      "month": 10,
+      "average": 354.23
+    },
+    {
+      "year": 1993,
+      "month": 11,
+      "average": 355.53
+    },
+    {
+      "year": 1993,
+      "month": 12,
+      "average": 357.03
+    },
+    {
+      "year": 1994,
+      "month": 1,
+      "average": 358.36
+    },
+    {
+      "year": 1994,
+      "month": 2,
+      "average": 359.04
+    },
+    {
+      "year": 1994,
+      "month": 3,
+      "average": 360.11
+    },
+    {
+      "year": 1994,
+      "month": 4,
+      "average": 361.36
+    },
+    {
+      "year": 1994,
+      "month": 5,
+      "average": 361.78
+    },
+    {
+      "year": 1994,
+      "month": 6,
+      "average": 360.94
+    },
+    {
+      "year": 1994,
+      "month": 7,
+      "average": 359.51
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "average": 357.59
+    },
+    {
+      "year": 1994,
+      "month": 9,
+      "average": 355.86
+    },
+    {
+      "year": 1994,
+      "month": 10,
+      "average": 356.21
+    },
+    {
+      "year": 1994,
+      "month": 11,
+      "average": 357.65
+    },
+    {
+      "year": 1994,
+      "month": 12,
+      "average": 359.1
+    },
+    {
+      "year": 1995,
+      "month": 1,
+      "average": 360.04
+    },
+    {
+      "year": 1995,
+      "month": 2,
+      "average": 361.0
+    },
+    {
+      "year": 1995,
+      "month": 3,
+      "average": 361.98
+    },
+    {
+      "year": 1995,
+      "month": 4,
+      "average": 363.44
+    },
+    {
+      "year": 1995,
+      "month": 5,
+      "average": 363.83
+    },
+    {
+      "year": 1995,
+      "month": 6,
+      "average": 363.33
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "average": 361.78
+    },
+    {
+      "year": 1995,
+      "month": 8,
+      "average": 359.33
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "average": 358.32
+    },
+    {
+      "year": 1995,
+      "month": 10,
+      "average": 358.14
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "average": 359.61
+    },
+    {
+      "year": 1995,
+      "month": 12,
+      "average": 360.82
+    },
+    {
+      "year": 1996,
+      "month": 1,
+      "average": 362.2
+    },
+    {
+      "year": 1996,
+      "month": 2,
+      "average": 363.36
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "average": 364.28
+    },
+    {
+      "year": 1996,
+      "month": 4,
+      "average": 364.69
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "average": 365.25
+    },
+    {
+      "year": 1996,
+      "month": 6,
+      "average": 365.06
+    },
+    {
+      "year": 1996,
+      "month": 7,
+      "average": 363.69
+    },
+    {
+      "year": 1996,
+      "month": 8,
+      "average": 361.55
+    },
+    {
+      "year": 1996,
+      "month": 9,
+      "average": 359.69
+    },
+    {
+      "year": 1996,
+      "month": 10,
+      "average": 359.72
+    },
+    {
+      "year": 1996,
+      "month": 11,
+      "average": 361.04
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "average": 362.39
+    },
+    {
+      "year": 1997,
+      "month": 1,
+      "average": 363.24
+    },
+    {
+      "year": 1997,
+      "month": 2,
+      "average": 364.21
+    },
+    {
+      "year": 1997,
+      "month": 3,
+      "average": 364.65
+    },
+    {
+      "year": 1997,
+      "month": 4,
+      "average": 366.48
+    },
+    {
+      "year": 1997,
+      "month": 5,
+      "average": 366.77
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "average": 365.73
+    },
+    {
+      "year": 1997,
+      "month": 7,
+      "average": 364.46
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "average": 362.4
+    },
+    {
+      "year": 1997,
+      "month": 9,
+      "average": 360.44
+    },
+    {
+      "year": 1997,
+      "month": 10,
+      "average": 360.97
+    },
+    {
+      "year": 1997,
+      "month": 11,
+      "average": 362.65
+    },
+    {
+      "year": 1997,
+      "month": 12,
+      "average": 364.51
+    },
+    {
+      "year": 1998,
+      "month": 1,
+      "average": 365.39
+    },
+    {
+      "year": 1998,
+      "month": 2,
+      "average": 366.1
+    },
+    {
+      "year": 1998,
+      "month": 3,
+      "average": 367.36
+    },
+    {
+      "year": 1998,
+      "month": 4,
+      "average": 368.79
+    },
+    {
+      "year": 1998,
+      "month": 5,
+      "average": 369.56
+    },
+    {
+      "year": 1998,
+      "month": 6,
+      "average": 369.13
+    },
+    {
+      "year": 1998,
+      "month": 7,
+      "average": 367.98
+    },
+    {
+      "year": 1998,
+      "month": 8,
+      "average": 366.1
+    },
+    {
+      "year": 1998,
+      "month": 9,
+      "average": 364.16
+    },
+    {
+      "year": 1998,
+      "month": 10,
+      "average": 364.54
+    },
+    {
+      "year": 1998,
+      "month": 11,
+      "average": 365.67
+    },
+    {
+      "year": 1998,
+      "month": 12,
+      "average": 367.3
+    },
+    {
+      "year": 1999,
+      "month": 1,
+      "average": 368.35
+    },
+    {
+      "year": 1999,
+      "month": 2,
+      "average": 369.28
+    },
+    {
+      "year": 1999,
+      "month": 3,
+      "average": 369.84
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "average": 371.15
+    },
+    {
+      "year": 1999,
+      "month": 5,
+      "average": 371.12
+    },
+    {
+      "year": 1999,
+      "month": 6,
+      "average": 370.46
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "average": 369.61
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "average": 367.06
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "average": 364.95
+    },
+    {
+      "year": 1999,
+      "month": 10,
+      "average": 365.52
+    },
+    {
+      "year": 1999,
+      "month": 11,
+      "average": 366.88
+    },
+    {
+      "year": 1999,
+      "month": 12,
+      "average": 368.26
+    },
+    {
+      "year": 2000,
+      "month": 1,
+      "average": 369.45
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "average": 369.71
+    },
+    {
+      "year": 2000,
+      "month": 3,
+      "average": 370.75
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "average": 371.98
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "average": 371.74
+    },
+    {
+      "year": 2000,
+      "month": 6,
+      "average": 371.87
+    },
+    {
+      "year": 2000,
+      "month": 7,
+      "average": 370.02
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "average": 368.27
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "average": 367.15
+    },
+    {
+      "year": 2000,
+      "month": 10,
+      "average": 367.18
+    },
+    {
+      "year": 2000,
+      "month": 11,
+      "average": 368.53
+    },
+    {
+      "year": 2000,
+      "month": 12,
+      "average": 369.83
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "average": 370.76
+    },
+    {
+      "year": 2001,
+      "month": 2,
+      "average": 371.69
+    },
+    {
+      "year": 2001,
+      "month": 3,
+      "average": 372.63
+    },
+    {
+      "year": 2001,
+      "month": 4,
+      "average": 373.55
+    },
+    {
+      "year": 2001,
+      "month": 5,
+      "average": 374.03
+    },
+    {
+      "year": 2001,
+      "month": 6,
+      "average": 373.4
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "average": 371.68
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "average": 369.78
+    },
+    {
+      "year": 2001,
+      "month": 9,
+      "average": 368.34
+    },
+    {
+      "year": 2001,
+      "month": 10,
+      "average": 368.61
+    },
+    {
+      "year": 2001,
+      "month": 11,
+      "average": 369.94
+    },
+    {
+      "year": 2001,
+      "month": 12,
+      "average": 371.42
+    },
+    {
+      "year": 2002,
+      "month": 1,
+      "average": 372.7
+    },
+    {
+      "year": 2002,
+      "month": 2,
+      "average": 373.37
+    },
+    {
+      "year": 2002,
+      "month": 3,
+      "average": 374.3
+    },
+    {
+      "year": 2002,
+      "month": 4,
+      "average": 375.19
+    },
+    {
+      "year": 2002,
+      "month": 5,
+      "average": 375.93
+    },
+    {
+      "year": 2002,
+      "month": 6,
+      "average": 375.69
+    },
+    {
+      "year": 2002,
+      "month": 7,
+      "average": 374.16
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "average": 372.03
+    },
+    {
+      "year": 2002,
+      "month": 9,
+      "average": 370.92
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "average": 370.73
+    },
+    {
+      "year": 2002,
+      "month": 11,
+      "average": 372.43
+    },
+    {
+      "year": 2002,
+      "month": 12,
+      "average": 373.98
+    },
+    {
+      "year": 2003,
+      "month": 1,
+      "average": 375.07
+    },
+    {
+      "year": 2003,
+      "month": 2,
+      "average": 375.82
+    },
+    {
+      "year": 2003,
+      "month": 3,
+      "average": 376.64
+    },
+    {
+      "year": 2003,
+      "month": 4,
+      "average": 377.92
+    },
+    {
+      "year": 2003,
+      "month": 5,
+      "average": 378.78
+    },
+    {
+      "year": 2003,
+      "month": 6,
+      "average": 378.46
+    },
+    {
+      "year": 2003,
+      "month": 7,
+      "average": 376.88
+    },
+    {
+      "year": 2003,
+      "month": 8,
+      "average": 374.57
+    },
+    {
+      "year": 2003,
+      "month": 9,
+      "average": 373.34
+    },
+    {
+      "year": 2003,
+      "month": 10,
+      "average": 373.31
+    },
+    {
+      "year": 2003,
+      "month": 11,
+      "average": 374.84
+    },
+    {
+      "year": 2003,
+      "month": 12,
+      "average": 376.17
+    },
+    {
+      "year": 2004,
+      "month": 1,
+      "average": 377.17
+    },
+    {
+      "year": 2004,
+      "month": 2,
+      "average": 378.05
+    },
+    {
+      "year": 2004,
+      "month": 3,
+      "average": 379.06
+    },
+    {
+      "year": 2004,
+      "month": 4,
+      "average": 380.54
+    },
+    {
+      "year": 2004,
+      "month": 5,
+      "average": 380.8
+    },
+    {
+      "year": 2004,
+      "month": 6,
+      "average": 379.87
+    },
+    {
+      "year": 2004,
+      "month": 7,
+      "average": 377.65
+    },
+    {
+      "year": 2004,
+      "month": 8,
+      "average": 376.17
+    },
+    {
+      "year": 2004,
+      "month": 9,
+      "average": 374.43
+    },
+    {
+      "year": 2004,
+      "month": 10,
+      "average": 374.63
+    },
+    {
+      "year": 2004,
+      "month": 11,
+      "average": 376.33
+    },
+    {
+      "year": 2004,
+      "month": 12,
+      "average": 377.68
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "average": 378.63
+    },
+    {
+      "year": 2005,
+      "month": 2,
+      "average": 379.91
+    },
+    {
+      "year": 2005,
+      "month": 3,
+      "average": 380.95
+    },
+    {
+      "year": 2005,
+      "month": 4,
+      "average": 382.48
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "average": 382.64
+    },
+    {
+      "year": 2005,
+      "month": 6,
+      "average": 382.4
+    },
+    {
+      "year": 2005,
+      "month": 7,
+      "average": 380.93
+    },
+    {
+      "year": 2005,
+      "month": 8,
+      "average": 378.93
+    },
+    {
+      "year": 2005,
+      "month": 9,
+      "average": 376.89
+    },
+    {
+      "year": 2005,
+      "month": 10,
+      "average": 377.19
+    },
+    {
+      "year": 2005,
+      "month": 11,
+      "average": 378.54
+    },
+    {
+      "year": 2005,
+      "month": 12,
+      "average": 380.31
+    },
+    {
+      "year": 2006,
+      "month": 1,
+      "average": 381.58
+    },
+    {
+      "year": 2006,
+      "month": 2,
+      "average": 382.4
+    },
+    {
+      "year": 2006,
+      "month": 3,
+      "average": 382.86
+    },
+    {
+      "year": 2006,
+      "month": 4,
+      "average": 384.8
+    },
+    {
+      "year": 2006,
+      "month": 5,
+      "average": 385.22
+    },
+    {
+      "year": 2006,
+      "month": 6,
+      "average": 384.24
+    },
+    {
+      "year": 2006,
+      "month": 7,
+      "average": 382.65
+    },
+    {
+      "year": 2006,
+      "month": 8,
+      "average": 380.6
+    },
+    {
+      "year": 2006,
+      "month": 9,
+      "average": 379.04
+    },
+    {
+      "year": 2006,
+      "month": 10,
+      "average": 379.33
+    },
+    {
+      "year": 2006,
+      "month": 11,
+      "average": 380.35
+    },
+    {
+      "year": 2006,
+      "month": 12,
+      "average": 382.02
+    },
+    {
+      "year": 2007,
+      "month": 1,
+      "average": 383.1
+    },
+    {
+      "year": 2007,
+      "month": 2,
+      "average": 384.12
+    },
+    {
+      "year": 2007,
+      "month": 3,
+      "average": 384.81
+    },
+    {
+      "year": 2007,
+      "month": 4,
+      "average": 386.73
+    },
+    {
+      "year": 2007,
+      "month": 5,
+      "average": 386.78
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "average": 386.33
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "average": 384.73
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "average": 382.24
+    },
+    {
+      "year": 2007,
+      "month": 9,
+      "average": 381.2
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "average": 381.37
+    },
+    {
+      "year": 2007,
+      "month": 11,
+      "average": 382.7
+    },
+    {
+      "year": 2007,
+      "month": 12,
+      "average": 384.19
+    },
+    {
+      "year": 2008,
+      "month": 1,
+      "average": 385.78
+    },
+    {
+      "year": 2008,
+      "month": 2,
+      "average": 386.06
+    },
+    {
+      "year": 2008,
+      "month": 3,
+      "average": 386.28
+    },
+    {
+      "year": 2008,
+      "month": 4,
+      "average": 387.33
+    },
+    {
+      "year": 2008,
+      "month": 5,
+      "average": 388.78
+    },
+    {
+      "year": 2008,
+      "month": 6,
+      "average": 387.99
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "average": 386.62
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "average": 384.32
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "average": 383.41
+    },
+    {
+      "year": 2008,
+      "month": 10,
+      "average": 383.22
+    },
+    {
+      "year": 2008,
+      "month": 11,
+      "average": 384.41
+    },
+    {
+      "year": 2008,
+      "month": 12,
+      "average": 385.79
+    },
+    {
+      "year": 2009,
+      "month": 1,
+      "average": 387.17
+    },
+    {
+      "year": 2009,
+      "month": 2,
+      "average": 387.7
+    },
+    {
+      "year": 2009,
+      "month": 3,
+      "average": 389.04
+    },
+    {
+      "year": 2009,
+      "month": 4,
+      "average": 389.76
+    },
+    {
+      "year": 2009,
+      "month": 5,
+      "average": 390.36
+    },
+    {
+      "year": 2009,
+      "month": 6,
+      "average": 389.7
+    },
+    {
+      "year": 2009,
+      "month": 7,
+      "average": 388.24
+    },
+    {
+      "year": 2009,
+      "month": 8,
+      "average": 386.29
+    },
+    {
+      "year": 2009,
+      "month": 9,
+      "average": 384.95
+    },
+    {
+      "year": 2009,
+      "month": 10,
+      "average": 384.64
+    },
+    {
+      "year": 2009,
+      "month": 11,
+      "average": 386.23
+    },
+    {
+      "year": 2009,
+      "month": 12,
+      "average": 387.63
+    },
+    {
+      "year": 2010,
+      "month": 1,
+      "average": 388.91
+    },
+    {
+      "year": 2010,
+      "month": 2,
+      "average": 390.41
+    },
+    {
+      "year": 2010,
+      "month": 3,
+      "average": 391.37
+    },
+    {
+      "year": 2010,
+      "month": 4,
+      "average": 392.67
+    },
+    {
+      "year": 2010,
+      "month": 5,
+      "average": 393.21
+    },
+    {
+      "year": 2010,
+      "month": 6,
+      "average": 392.38
+    },
+    {
+      "year": 2010,
+      "month": 7,
+      "average": 390.41
+    },
+    {
+      "year": 2010,
+      "month": 8,
+      "average": 388.54
+    },
+    {
+      "year": 2010,
+      "month": 9,
+      "average": 387.03
+    },
+    {
+      "year": 2010,
+      "month": 10,
+      "average": 387.43
+    },
+    {
+      "year": 2010,
+      "month": 11,
+      "average": 388.87
+    },
+    {
+      "year": 2010,
+      "month": 12,
+      "average": 389.99
+    },
+    {
+      "year": 2011,
+      "month": 1,
+      "average": 391.5
+    },
+    {
+      "year": 2011,
+      "month": 2,
+      "average": 392.05
+    },
+    {
+      "year": 2011,
+      "month": 3,
+      "average": 392.8
+    },
+    {
+      "year": 2011,
+      "month": 4,
+      "average": 393.44
+    },
+    {
+      "year": 2011,
+      "month": 5,
+      "average": 394.41
+    },
+    {
+      "year": 2011,
+      "month": 6,
+      "average": 393.95
+    },
+    {
+      "year": 2011,
+      "month": 7,
+      "average": 392.72
+    },
+    {
+      "year": 2011,
+      "month": 8,
+      "average": 390.33
+    },
+    {
+      "year": 2011,
+      "month": 9,
+      "average": 389.28
+    },
+    {
+      "year": 2011,
+      "month": 10,
+      "average": 389.19
+    },
+    {
+      "year": 2011,
+      "month": 11,
+      "average": 390.48
+    },
+    {
+      "year": 2011,
+      "month": 12,
+      "average": 392.06
+    },
+    {
+      "year": 2012,
+      "month": 1,
+      "average": 393.31
+    },
+    {
+      "year": 2012,
+      "month": 2,
+      "average": 394.04
+    },
+    {
+      "year": 2012,
+      "month": 3,
+      "average": 394.59
+    },
+    {
+      "year": 2012,
+      "month": 4,
+      "average": 396.38
+    },
+    {
+      "year": 2012,
+      "month": 5,
+      "average": 396.93
+    },
+    {
+      "year": 2012,
+      "month": 6,
+      "average": 395.91
+    },
+    {
+      "year": 2012,
+      "month": 7,
+      "average": 394.56
+    },
+    {
+      "year": 2012,
+      "month": 8,
+      "average": 392.59
+    },
+    {
+      "year": 2012,
+      "month": 9,
+      "average": 391.32
+    },
+    {
+      "year": 2012,
+      "month": 10,
+      "average": 391.27
+    },
+    {
+      "year": 2012,
+      "month": 11,
+      "average": 393.2
+    },
+    {
+      "year": 2012,
+      "month": 12,
+      "average": 394.57
+    },
+    {
+      "year": 2013,
+      "month": 1,
+      "average": 395.78
+    },
+    {
+      "year": 2013,
+      "month": 2,
+      "average": 397.03
+    },
+    {
+      "year": 2013,
+      "month": 3,
+      "average": 397.66
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "average": 398.64
+    },
+    {
+      "year": 2013,
+      "month": 5,
+      "average": 400.02
+    },
+    {
+      "year": 2013,
+      "month": 6,
+      "average": 398.81
+    },
+    {
+      "year": 2013,
+      "month": 7,
+      "average": 397.51
+    },
+    {
+      "year": 2013,
+      "month": 8,
+      "average": 395.39
+    },
+    {
+      "year": 2013,
+      "month": 9,
+      "average": 393.72
+    },
+    {
+      "year": 2013,
+      "month": 10,
+      "average": 393.9
+    },
+    {
+      "year": 2013,
+      "month": 11,
+      "average": 395.36
+    },
+    {
+      "year": 2013,
+      "month": 12,
+      "average": 397.03
+    },
+    {
+      "year": 2014,
+      "month": 1,
+      "average": 398.04
+    },
+    {
+      "year": 2014,
+      "month": 2,
+      "average": 398.27
+    },
+    {
+      "year": 2014,
+      "month": 3,
+      "average": 399.91
+    },
+    {
+      "year": 2014,
+      "month": 4,
+      "average": 401.51
+    },
+    {
+      "year": 2014,
+      "month": 5,
+      "average": 401.96
+    },
+    {
+      "year": 2014,
+      "month": 6,
+      "average": 401.43
+    },
+    {
+      "year": 2014,
+      "month": 7,
+      "average": 399.27
+    },
+    {
+      "year": 2014,
+      "month": 8,
+      "average": 397.18
+    },
+    {
+      "year": 2014,
+      "month": 9,
+      "average": 395.54
+    },
+    {
+      "year": 2014,
+      "month": 10,
+      "average": 396.16
+    },
+    {
+      "year": 2014,
+      "month": 11,
+      "average": 397.4
+    },
+    {
+      "year": 2014,
+      "month": 12,
+      "average": 399.08
+    },
+    {
+      "year": 2015,
+      "month": 1,
+      "average": 400.18
+    },
+    {
+      "year": 2015,
+      "month": 2,
+      "average": 400.55
+    },
+    {
+      "year": 2015,
+      "month": 3,
+      "average": 401.74
+    },
+    {
+      "year": 2015,
+      "month": 4,
+      "average": 403.35
+    },
+    {
+      "year": 2015,
+      "month": 5,
+      "average": 404.15
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "average": 402.97
+    },
+    {
+      "year": 2015,
+      "month": 7,
+      "average": 401.46
+    },
+    {
+      "year": 2015,
+      "month": 8,
+      "average": 399.11
+    },
+    {
+      "year": 2015,
+      "month": 9,
+      "average": 397.82
+    },
+    {
+      "year": 2015,
+      "month": 10,
+      "average": 398.49
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "average": 400.27
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "average": 402.06
+    },
+    {
+      "year": 2016,
+      "month": 1,
+      "average": 402.73
+    },
+    {
+      "year": 2016,
+      "month": 2,
+      "average": 404.25
+    },
+    {
+      "year": 2016,
+      "month": 3,
+      "average": 405.06
+    },
+    {
+      "year": 2016,
+      "month": 4,
+      "average": 407.6
+    },
+    {
+      "year": 2016,
+      "month": 5,
+      "average": 407.9
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "average": 406.99
+    },
+    {
+      "year": 2016,
+      "month": 7,
+      "average": 404.59
+    },
+    {
+      "year": 2016,
+      "month": 8,
+      "average": 402.45
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "average": 401.23
+    },
+    {
+      "year": 2016,
+      "month": 10,
+      "average": 401.79
+    },
+    {
+      "year": 2016,
+      "month": 11,
+      "average": 403.72
+    },
+    {
+      "year": 2016,
+      "month": 12,
+      "average": 404.64
+    },
+    {
+      "year": 2017,
+      "month": 1,
+      "average": 406.36
+    },
+    {
+      "year": 2017,
+      "month": 2,
+      "average": 406.65
+    },
+    {
+      "year": 2017,
+      "month": 3,
+      "average": 407.54
+    },
+    {
+      "year": 2017,
+      "month": 4,
+      "average": 409.22
+    },
+    {
+      "year": 2017,
+      "month": 5,
+      "average": 409.89
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "average": 409.08
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "average": 407.33
+    },
+    {
+      "year": 2017,
+      "month": 8,
+      "average": 405.32
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "average": 403.57
+    },
+    {
+      "year": 2017,
+      "month": 10,
+      "average": 403.82
+    },
+    {
+      "year": 2017,
+      "month": 11,
+      "average": 405.31
+    },
+    {
+      "year": 2017,
+      "month": 12,
+      "average": 407.0
+    },
+    {
+      "year": 2018,
+      "month": 1,
+      "average": 408.15
+    },
+    {
+      "year": 2018,
+      "month": 2,
+      "average": 408.52
+    },
+    {
+      "year": 2018,
+      "month": 3,
+      "average": 409.59
+    },
+    {
+      "year": 2018,
+      "month": 4,
+      "average": 410.45
+    },
+    {
+      "year": 2018,
+      "month": 5,
+      "average": 411.44
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "average": 410.99
+    },
+    {
+      "year": 2018,
+      "month": 7,
+      "average": 408.9
+    },
+    {
+      "year": 2018,
+      "month": 8,
+      "average": 407.16
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "average": 405.71
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "average": 406.19
+    },
+    {
+      "year": 2018,
+      "month": 11,
+      "average": 408.21
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "average": 409.27
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "average": 411.03
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "average": 411.96
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "average": 412.18
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "average": 413.54
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "average": 414.86
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "average": 414.15
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "average": 411.96
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "average": 410.17
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "average": 408.76
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "average": 408.74
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "average": 410.47
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "average": 411.97
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "average": 413.59
+    },
+    {
+      "year": 2020,
+      "month": 2,
+      "average": 414.32
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "average": 414.72
+    },
+    {
+      "year": 2020,
+      "month": 4,
+      "average": 416.42
+    },
+    {
+      "year": 2020,
+      "month": 5,
+      "average": 417.28
+    },
+    {
+      "year": 2020,
+      "month": 6,
+      "average": 416.58
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "average": 414.58
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "average": 412.75
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "average": 411.5
+    },
+    {
+      "year": 2020,
+      "month": 10,
+      "average": 411.49
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "average": 413.1
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "average": 414.23
+    },
+    {
+      "year": 2021,
+      "month": 1,
+      "average": 415.49
+    },
+    {
+      "year": 2021,
+      "month": 2,
+      "average": 416.72
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "average": 417.61
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "average": 419.01
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "average": 419.09
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "average": 418.93
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "average": 416.9
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "average": 414.42
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "average": 413.26
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "average": 413.9
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "average": 414.97
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "average": 416.67
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "average": 418.13
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "average": 419.24
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "average": 418.76
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "average": 420.19
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "average": 420.97
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "average": 420.94
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "average": 418.85
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "average": 417.15
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "average": 415.91
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "average": 415.74
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "average": 417.47
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "average": 418.99
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "average": 419.47
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "average": 420.31
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "average": 420.99
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "average": 423.31
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "average": 424.0
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "average": 423.68
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "average": 421.83
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "average": 419.68
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "average": 418.5
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "average": 418.82
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "average": 420.46
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "average": 421.86
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "average": 422.8
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "average": 424.55
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "average": 425.38
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "average": 426.51
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "average": 426.9
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "average": 426.91
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "average": 425.55
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "average": 422.99
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "average": 422.03
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "average": 422.38
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "average": 423.85
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "average": 425.4
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "average": 426.65
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "average": 427.09
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "average": 428.15
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "average": 429.64
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "average": 430.51
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "average": 429.61
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "average": 427.87
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "average": 425.48
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "average": 424.37
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "average": 424.87
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "average": 426.46
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "average": 427.49
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "average": 428.62
+    }
+  ]
+}

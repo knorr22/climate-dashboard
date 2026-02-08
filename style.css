@@ -1,0 +1,295 @@
+/* Climate Dashboard - Custom Styles */
+
+/* Base Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes pulse-glow {
+    0%, 100% {
+        box-shadow: 0 0 5px rgba(20, 184, 166, 0.3);
+    }
+    50% {
+        box-shadow: 0 0 20px rgba(20, 184, 166, 0.6);
+    }
+}
+
+@keyframes gradient-shift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #111827;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #374151;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4b5563;
+}
+
+/* Card Animations */
+.stat-card,
+.chart-card {
+    animation: fadeIn 0.6s ease-out forwards;
+}
+
+.stat-card:nth-child(1) { animation-delay: 0.1s; }
+.stat-card:nth-child(2) { animation-delay: 0.2s; }
+.stat-card:nth-child(3) { animation-delay: 0.3s; }
+
+.chart-card:nth-child(1) { animation-delay: 0.4s; }
+.chart-card:nth-child(2) { animation-delay: 0.5s; }
+
+/* Chart Container Sizing */
+.chart-container {
+    height: 320px;
+    min-height: 280px;
+}
+
+.chart-container-large {
+    height: 400px;
+    min-height: 350px;
+}
+
+@media (max-width: 640px) {
+    .chart-container {
+        height: 280px;
+        min-height: 240px;
+    }
+    
+    .chart-container-large {
+        height: 320px;
+        min-height: 280px;
+    }
+}
+
+/* Hover Effects */
+.stat-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.4);
+}
+
+.chart-card {
+    transition: box-shadow 0.3s ease;
+}
+
+.chart-card:hover {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
+}
+
+/* Loading Overlay */
+#loading-overlay {
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+#loading-overlay.hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+/* Gradient Text Animation */
+.gradient-text-animated {
+    background: linear-gradient(90deg, #14b8a6, #3b82f6, #14b8a6);
+    background-size: 200% auto;
+    animation: gradient-shift 3s ease infinite;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Light Mode Styles */
+.light body,
+body.light {
+    --bg-primary: #f8fafc;
+    --bg-card: #ffffff;
+    --bg-card-light: #f1f5f9;
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+    --border-color: #e2e8f0;
+}
+
+body.light {
+    background-color: #f8fafc;
+}
+
+body.light .bg-climate-dark {
+    background-color: #f8fafc;
+}
+
+body.light .bg-climate-card,
+body.light .from-climate-card {
+    background-color: #ffffff;
+}
+
+body.light .bg-climate-card-light,
+body.light .to-climate-card-light {
+    background-color: #f1f5f9;
+}
+
+body.light .text-climate-text-primary {
+    color: #0f172a;
+}
+
+body.light .text-climate-text-secondary {
+    color: #64748b;
+}
+
+body.light .border-gray-800 {
+    border-color: #e2e8f0;
+}
+
+body.light .border-gray-700 {
+    border-color: #cbd5e1;
+}
+
+body.light .bg-climate-dark\/80 {
+    background-color: rgba(248, 250, 252, 0.8);
+}
+
+body.light .bg-climate-dark\/50 {
+    background-color: rgba(248, 250, 252, 0.5);
+}
+
+body.light .bg-climate-dark\/90 {
+    background-color: rgba(248, 250, 252, 0.9);
+}
+
+/* ApexCharts Light Mode Override */
+body.light .apexcharts-text {
+    fill: #374151 !important;
+}
+
+body.light .apexcharts-gridline {
+    stroke: #e5e7eb !important;
+}
+
+body.light .apexcharts-tooltip {
+    background: #ffffff !important;
+    border-color: #e5e7eb !important;
+    color: #111827 !important;
+}
+
+body.light .apexcharts-tooltip-title {
+    background: #f3f4f6 !important;
+    border-color: #e5e7eb !important;
+}
+
+/* Number Counter Animation */
+.number-animate {
+    transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Tooltip Customization */
+.apexcharts-tooltip {
+    border-radius: 12px !important;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3) !important;
+}
+
+.apexcharts-tooltip-title {
+    border-radius: 10px 10px 0 0 !important;
+    font-weight: 600 !important;
+}
+
+/* Badge Pulse */
+.badge-pulse {
+    animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Glass Effect */
+.glass-effect {
+    background: rgba(17, 24, 39, 0.7);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+body.light .glass-effect {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+/* Focus States */
+button:focus-visible {
+    outline: 2px solid #14b8a6;
+    outline-offset: 2px;
+}
+
+/* Error State */
+.error-message {
+    animation: fadeIn 0.3s ease-out;
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(239, 68, 68, 0.05));
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    border-radius: 12px;
+    padding: 1rem;
+    color: #fca5a5;
+}
+
+body.light .error-message {
+    color: #dc2626;
+}
+
+/* Responsive Typography */
+@media (max-width: 640px) {
+    .stat-card .text-3xl {
+        font-size: 1.75rem;
+    }
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background: white !important;
+        color: black !important;
+    }
+    
+    .stat-card,
+    .chart-card {
+        break-inside: avoid;
+        border: 1px solid #ccc !important;
+    }
+    
+    #loading-overlay,
+    #theme-toggle {
+        display: none !important;
+    }
+}

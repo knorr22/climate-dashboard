@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Climate Change Dashboard - Aktuelle Daten zu CO2, Temperatur und Meereis">
+    <title>Climate Change Dashboard</title>
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- ApexCharts -->
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'inter': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'climate': {
+                            'dark': '#0a0f1a',
+                            'card': '#111827',
+                            'card-light': '#1f2937',
+                            'accent-blue': '#3b82f6',
+                            'accent-teal': '#14b8a6',
+                            'accent-orange': '#f97316',
+                            'accent-red': '#ef4444',
+                            'accent-cyan': '#22d3ee',
+                            'text-primary': '#f9fafb',
+                            'text-secondary': '#9ca3af',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bg-climate-dark min-h-screen font-inter text-climate-text-primary">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-50 backdrop-blur-xl bg-climate-dark/80 border-b border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center space-x-3">
+                    <div
+                        class="w-10 h-10 rounded-xl bg-gradient-to-br from-climate-accent-teal to-climate-accent-blue flex items-center justify-center">
+                        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                    </div>
+                    <div>
+                        <h1
+                            class="text-xl font-bold bg-gradient-to-r from-climate-accent-teal to-climate-accent-blue bg-clip-text text-transparent">
+                            Climate Dashboard
+                        </h1>
+                        <p class="text-xs text-climate-text-secondary">Wissenschaftliche Klimadaten</p>
+                    </div>
+                </div>
+
+                <div class="flex items-center space-x-4">
+                    <!-- Last Updated Badge -->
+                    <div id="last-updated-badge"
+                        class="hidden sm:flex items-center space-x-2 px-3 py-1.5 rounded-full bg-climate-card border border-gray-700">
+                        <div class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
+                        <span class="text-xs text-climate-text-secondary">
+                            Aktualisiert: <span id="last-updated"
+                                class="text-climate-text-primary font-medium">--</span>
+                        </span>
+                    </div>
+
+                    <!-- Dark Mode Toggle -->
+                    <button id="theme-toggle"
+                        class="p-2 rounded-lg bg-climate-card border border-gray-700 hover:border-gray-600 transition-colors">
+                        <svg id="sun-icon" class="w-5 h-5 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd"
+                                d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
+                                clip-rule="evenodd" />
+                        </svg>
+                        <svg id="moon-icon" class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+        <!-- Hero Stats Row -->
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+            <!-- Current CO2 -->
+            <div
+                class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-orange/50 transition-all duration-300">
+                <div
+                    class="absolute inset-0 bg-gradient-to-br from-climate-accent-orange/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+                </div>
+                <div class="relative">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-climate-text-secondary text-sm font-medium">CO₂-Änderung</span>
+                        <div class="w-8 h-8 rounded-lg bg-climate-accent-orange/20 flex items-center justify-center">
+                            <svg class="w-4 h-4 text-climate-accent-orange" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex items-baseline space-x-2">
+                        <span id="co2-kpi" class="text-3xl font-bold text-climate-accent-orange">--</span>
+                        <span class="text-climate-text-secondary text-sm">ppm</span>
+                    </div>
+                    <div class="mt-2 text-xs text-climate-text-secondary">
+                        <span id="co2-date" class="font-medium text-climate-text-primary mr-1">--</span>
+                        <span id="co2-absolute">Aktuell: <span class="text-climate-text-primary">--</span></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Temperature Anomaly -->
+            <div
+                class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-red/50 transition-all duration-300">
+                <div
+                    class="absolute inset-0 bg-gradient-to-br from-climate-accent-red/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+                </div>
+                <div class="relative">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-climate-text-secondary text-sm font-medium">Temperaturanomalie</span>
+                        <div class="w-8 h-8 rounded-lg bg-climate-accent-red/20 flex items-center justify-center">
+                            <svg class="w-4 h-4 text-climate-accent-red" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex items-baseline space-x-2">
+                        <span id="current-temp" class="text-3xl font-bold text-climate-accent-red">--</span>
+                        <span class="text-climate-text-secondary text-sm">°C</span>
+                    </div>
+                    <div class="mt-2 text-xs text-climate-text-secondary">
+                        <span id="temp-date" class="font-medium text-climate-text-primary mr-1">--</span>
+                        Abweichung vom <span id="temp-baseline">1951-1980</span> Mittel
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sea Ice Extent -->
+            <div
+                class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-cyan/50 transition-all duration-300">
+                <div
+                    class="absolute inset-0 bg-gradient-to-br from-climate-accent-cyan/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+                </div>
+                <div class="relative">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-climate-text-secondary text-sm font-medium">Meereis-Änderung</span>
+                        <div class="w-8 h-8 rounded-lg bg-climate-accent-cyan/20 flex items-center justify-center">
+                            <svg class="w-4 h-4 text-climate-accent-cyan" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex items-baseline space-x-2">
+                        <span id="ice-kpi" class="text-3xl font-bold text-climate-accent-cyan">--</span>
+                        <span class="text-climate-text-secondary text-sm">Mio. km²</span>
+                    </div>
+                    <div class="mt-2 text-xs text-climate-text-secondary">
+                        <span id="ice-date" class="font-medium text-climate-text-primary mr-1">--</span>
+                        <span id="ice-absolute">Ausdehnung: <span class="text-climate-text-primary">--</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Charts Grid -->
+        <!-- Main Chart: Temperature (Full Width) -->
+        <div
+            class="chart-card rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 overflow-hidden mb-8">
+            <div class="p-6 border-b border-gray-800">
+                <div class="flex items-center justify-between flex-wrap gap-4">
+                    <div>
+                        <h2 class="text-lg font-semibold text-climate-text-primary">Globale Temperaturanomalie</h2>
+                        <p class="text-sm text-climate-text-secondary mt-1">Monatliche Abweichung vom
+                            Referenzzeitraum</p>
+                    </div>
+                    <div class="flex items-center space-x-2">
+                        <span
+                            class="px-2 py-1 text-xs rounded-full bg-climate-accent-red/20 text-climate-accent-red">NASA
+                            GISS</span>
+                    </div>
+                </div>
+            </div>
+            <div class="p-6">
+                <div id="temperature-chart" class="chart-container-large"></div>
+            </div>
+        </div>
+
+        <!-- Grid: CO2 and Sea Ice -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+
+            <!-- CO2 Chart -->
+            <div
+                class="chart-card rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 overflow-hidden">
+                <div class="p-6 border-b border-gray-800">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h2 class="text-lg font-semibold text-climate-text-primary">CO₂-Konzentration</h2>
+                            <p class="text-sm text-climate-text-secondary mt-1">Keeling-Kurve – Mauna Loa Observatory
+                            </p>
+                        </div>
+                        <div class="flex items-center space-x-2">
+                            <span
+                                class="px-2 py-1 text-xs rounded-full bg-climate-accent-orange/20 text-climate-accent-orange">NOAA</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-6">
+                    <div id="co2-chart" class="chart-container"></div>
+                </div>
+            </div>
+
+            <!-- Sea Ice Chart -->
+            <div
+                class="chart-card rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 overflow-hidden">
+                <div class="p-6 border-b border-gray-800">
+                    <div class="flex items-center justify-between flex-wrap gap-4">
+                        <div>
+                            <h2 class="text-lg font-semibold text-climate-text-primary">Arktische Meereisausdehnung</h2>
+                            <p class="text-sm text-climate-text-secondary mt-1">Saisonaler Vergleich verschiedener Jahre
+                            </p>
+                        </div>
+                        <div class="flex items-center space-x-2">
+                            <span
+                                class="px-2 py-1 text-xs rounded-full bg-climate-accent-cyan/20 text-climate-accent-cyan">NSIDC</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-6">
+                    <div id="seaice-chart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Info Section -->
+        <div class="rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6">
+            <h3 class="text-lg font-semibold mb-4 flex items-center">
+                <svg class="w-5 h-5 mr-2 text-climate-accent-blue" fill="none" stroke="currentColor"
+                    viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                Datenquellen
+            </h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
+                <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
+                    <div class="font-medium text-climate-accent-orange mb-1">CO₂-Daten</div>
+                    <p class="text-climate-text-secondary">NOAA Global Monitoring Laboratory<br>Mauna Loa, Hawaii</p>
+                </div>
+                <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
+                    <div class="font-medium text-climate-accent-red mb-1">Temperaturdaten</div>
+                    <p class="text-climate-text-secondary">NASA Goddard Institute<br>for Space Studies (GISS)</p>
+                </div>
+                <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
+                    <div class="font-medium text-climate-accent-cyan mb-1">Meereis-Daten</div>
+                    <p class="text-climate-text-secondary">National Snow and Ice<br>Data Center (NSIDC)</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-800 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+                <div class="text-center md:text-left">
+                    <p class="text-climate-text-secondary text-sm">
+                        Climate Dashboard – Daten werden wöchentlich automatisch aktualisiert via GitHub Actions
+                    </p>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <a href="https://github.com" target="_blank"
+                        class="text-climate-text-secondary hover:text-climate-text-primary transition-colors">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                            <path fill-rule="evenodd"
+                                d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                                clip-rule="evenodd" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay"
+        class="fixed inset-0 bg-climate-dark/90 backdrop-blur-sm z-50 flex items-center justify-center">
+        <div class="text-center">
+            <div class="relative w-20 h-20 mx-auto mb-4">
+                <div class="absolute inset-0 rounded-full border-4 border-climate-card-light"></div>
+                <div
+                    class="absolute inset-0 rounded-full border-4 border-t-climate-accent-teal border-r-transparent border-b-transparent border-l-transparent animate-spin">
+                </div>
+            </div>
+            <p class="text-climate-text-secondary">Lade Klimadaten...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
