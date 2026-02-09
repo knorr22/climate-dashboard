@@ -104,34 +104,6 @@
 
         <!-- Hero Stats Row -->
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-            <!-- Current CO2 -->
-            <div
-                class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-orange/50 transition-all duration-300">
-                <div
-                    class="absolute inset-0 bg-gradient-to-br from-climate-accent-orange/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
-                </div>
-                <div class="relative">
-                    <div class="flex items-center justify-between mb-2">
-                        <span class="text-climate-text-secondary text-sm font-medium">CO₂-Änderung</span>
-                        <div class="w-8 h-8 rounded-lg bg-climate-accent-orange/20 flex items-center justify-center">
-                            <svg class="w-4 h-4 text-climate-accent-orange" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="flex items-baseline space-x-2">
-                        <span id="co2-kpi" class="text-3xl font-bold text-climate-accent-orange">--</span>
-                        <span class="text-climate-text-secondary text-sm">ppm</span>
-                    </div>
-                    <div class="mt-2 text-xs text-climate-text-secondary">
-                        <span id="co2-date" class="font-medium text-climate-text-primary mr-1">--</span>
-                        <span id="co2-absolute">Aktuell: <span class="text-climate-text-primary">--</span></span>
-                    </div>
-                </div>
-            </div>
-
             <!-- Temperature Anomaly -->
             <div
                 class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-red/50 transition-all duration-300">
@@ -156,6 +128,34 @@
                     <div class="mt-2 text-xs text-climate-text-secondary">
                         <span id="temp-date" class="font-medium text-climate-text-primary mr-1">--</span>
                         Abweichung vom <span id="temp-baseline">1951-1980</span> Mittel
+                    </div>
+                </div>
+            </div>
+
+            <!-- Current CO2 -->
+            <div
+                class="stat-card group relative overflow-hidden rounded-2xl bg-gradient-to-br from-climate-card to-climate-card-light border border-gray-800 p-6 hover:border-climate-accent-orange/50 transition-all duration-300">
+                <div
+                    class="absolute inset-0 bg-gradient-to-br from-climate-accent-orange/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+                </div>
+                <div class="relative">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-climate-text-secondary text-sm font-medium">CO₂-Änderung</span>
+                        <div class="w-8 h-8 rounded-lg bg-climate-accent-orange/20 flex items-center justify-center">
+                            <svg class="w-4 h-4 text-climate-accent-orange" fill="none" stroke="currentColor"
+                                viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex items-baseline space-x-2">
+                        <span id="co2-kpi" class="text-3xl font-bold text-climate-accent-orange">--</span>
+                        <span class="text-climate-text-secondary text-sm">ppm</span>
+                    </div>
+                    <div class="mt-2 text-xs text-climate-text-secondary">
+                        <span id="co2-date" class="font-medium text-climate-text-primary mr-1">--</span>
+                        <span id="co2-absolute">Aktuell: <span class="text-climate-text-primary">--</span></span>
                     </div>
                 </div>
             </div>
@@ -270,12 +270,12 @@
             </h3>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
                 <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
-                    <div class="font-medium text-climate-accent-orange mb-1">CO₂-Daten</div>
-                    <p class="text-climate-text-secondary">NOAA Global Monitoring Laboratory<br>Mauna Loa, Hawaii</p>
-                </div>
-                <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
                     <div class="font-medium text-climate-accent-red mb-1">Temperaturdaten</div>
                     <p class="text-climate-text-secondary">NASA Goddard Institute<br>for Space Studies (GISS)</p>
+                </div>
+                <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
+                    <div class="font-medium text-climate-accent-orange mb-1">CO₂-Daten</div>
+                    <p class="text-climate-text-secondary">NOAA Global Monitoring Laboratory<br>Mauna Loa, Hawaii</p>
                 </div>
                 <div class="p-4 rounded-xl bg-climate-dark/50 border border-gray-700">
                     <div class="font-medium text-climate-accent-cyan mb-1">Meereis-Daten</div>
