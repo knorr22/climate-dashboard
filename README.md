@@ -5,9 +5,8 @@ Ein modernes, responsives Dashboard zur Visualisierung von Klimadaten. Das Dashb
 ## 🌍 Live Demo
 
 Nach der Einrichtung ist das Dashboard unter folgender URL erreichbar:
-```
 [https://github.com/knorr22/climate-dashboard/](https://knorr22.github.io/climate-dashboard/)
-```
+
 
 ## 📊 Datenquellen
 
