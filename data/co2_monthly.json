@@ -2,7 +2,7 @@
   "source": "NOAA Global Monitoring Laboratory",
   "location": "Mauna Loa Observatory, Hawaii",
   "unit": "ppm",
-  "last_updated": "2026-03-01T04:23:46.220339Z",
+  "last_updated": "2026-03-08T04:12:18.214818Z",
   "data": [
     {
       "year": 1958,
@@ -1072,7 +1072,7 @@
     {
       "year": 1975,
       "month": 12,
-      "average": 330.76
+      "average": 330.77
     },
     {
       "year": 1976,
@@ -1572,7 +1572,7 @@
     {
       "year": 1984,
       "month": 4,
-      "average": 347.38
+      "average": 347.37
     },
     {
       "year": 1984,
@@ -2352,7 +2352,7 @@
     {
       "year": 1997,
       "month": 4,
-      "average": 366.48
+      "average": 366.49
     },
     {
       "year": 1997,
@@ -2537,7 +2537,7 @@
     {
       "year": 2000,
       "month": 5,
-      "average": 371.74
+      "average": 371.75
     },
     {
       "year": 2000,
@@ -3027,7 +3027,7 @@
     {
       "year": 2008,
       "month": 7,
-      "average": 386.62
+      "average": 386.61
     },
     {
       "year": 2008,
@@ -4078,6 +4078,11 @@
       "year": 2026,
       "month": 1,
       "average": 428.62
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "average": 429.35
     }
   ]
 }
