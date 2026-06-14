@@ -2,7 +2,7 @@
   "source": "National Snow and Ice Data Center (NSIDC) [MOCK DATA]",
   "region": "Arctic",
   "unit": "million km²",
-  "last_updated": "2026-06-07T06:25:20.863413Z",
+  "last_updated": "2026-06-14T06:42:39.463469Z",
   "median": {
     "1": 15.5,
     "2": 16.5,
@@ -21,607 +21,7 @@
     "2000": [
       {
         "month": 1,
-        "extent": 14.56
-      },
-      {
-        "month": 2,
-        "extent": 14.96
-      },
-      {
-        "month": 3,
-        "extent": 15.04
-      },
-      {
-        "month": 4,
-        "extent": 14.12
-      },
-      {
-        "month": 5,
-        "extent": 12.67
-      },
-      {
-        "month": 6,
-        "extent": 11.2
-      },
-      {
-        "month": 7,
-        "extent": 8.51
-      },
-      {
-        "month": 8,
-        "extent": 5.7
-      },
-      {
-        "month": 9,
-        "extent": 4.04
-      },
-      {
-        "month": 10,
-        "extent": 6.84
-      },
-      {
-        "month": 11,
-        "extent": 9.76
-      },
-      {
-        "month": 12,
-        "extent": 11.65
-      }
-    ],
-    "2001": [
-      {
-        "month": 1,
-        "extent": 14.61
-      },
-      {
-        "month": 2,
-        "extent": 15.06
-      },
-      {
-        "month": 3,
-        "extent": 15.19
-      },
-      {
-        "month": 4,
-        "extent": 14.41
-      },
-      {
-        "month": 5,
-        "extent": 12.3
-      },
-      {
-        "month": 6,
-        "extent": 10.65
-      },
-      {
-        "month": 7,
-        "extent": 8.76
-      },
-      {
-        "month": 8,
-        "extent": 6.26
-      },
-      {
-        "month": 9,
-        "extent": 4.29
-      },
-      {
-        "month": 10,
-        "extent": 6.18
-      },
-      {
-        "month": 11,
-        "extent": 9.15
-      },
-      {
-        "month": 12,
-        "extent": 11.81
-      }
-    ],
-    "2002": [
-      {
-        "month": 1,
-        "extent": 14.13
-      },
-      {
-        "month": 2,
-        "extent": 15.18
-      },
-      {
-        "month": 3,
-        "extent": 15.02
-      },
-      {
-        "month": 4,
-        "extent": 13.58
-      },
-      {
-        "month": 5,
-        "extent": 12.72
-      },
-      {
-        "month": 6,
-        "extent": 11.15
-      },
-      {
-        "month": 7,
-        "extent": 8.54
-      },
-      {
-        "month": 8,
-        "extent": 5.54
-      },
-      {
-        "month": 9,
-        "extent": 4.74
-      },
-      {
-        "month": 10,
-        "extent": 6.2
-      },
-      {
-        "month": 11,
-        "extent": 9.21
-      },
-      {
-        "month": 12,
-        "extent": 11.75
-      }
-    ],
-    "2003": [
-      {
-        "month": 1,
-        "extent": 13.44
-      },
-      {
-        "month": 2,
-        "extent": 14.92
-      },
-      {
-        "month": 3,
-        "extent": 15.06
-      },
-      {
-        "month": 4,
-        "extent": 13.78
-      },
-      {
-        "month": 5,
-        "extent": 12.54
-      },
-      {
-        "month": 6,
-        "extent": 11.18
-      },
-      {
-        "month": 7,
-        "extent": 8.24
-      },
-      {
-        "month": 8,
-        "extent": 5.92
-      },
-      {
-        "month": 9,
-        "extent": 4.4
-      },
-      {
-        "month": 10,
-        "extent": 6.32
-      },
-      {
-        "month": 11,
-        "extent": 8.95
-      },
-      {
-        "month": 12,
-        "extent": 11.64
-      }
-    ],
-    "2004": [
-      {
-        "month": 1,
-        "extent": 13.96
-      },
-      {
-        "month": 2,
-        "extent": 14.24
-      },
-      {
-        "month": 3,
-        "extent": 14.98
-      },
-      {
-        "month": 4,
-        "extent": 14.65
-      },
-      {
-        "month": 5,
-        "extent": 12.04
-      },
-      {
-        "month": 6,
-        "extent": 10.7
-      },
-      {
-        "month": 7,
-        "extent": 8.78
-      },
-      {
-        "month": 8,
-        "extent": 5.92
-      },
-      {
-        "month": 9,
-        "extent": 4.96
-      },
-      {
-        "month": 10,
-        "extent": 6.39
-      },
-      {
-        "month": 11,
-        "extent": 9.22
-      },
-      {
-        "month": 12,
-        "extent": 11.88
-      }
-    ],
-    "2005": [
-      {
-        "month": 1,
-        "extent": 13.89
-      },
-      {
-        "month": 2,
-        "extent": 14.67
-      },
-      {
-        "month": 3,
-        "extent": 14.95
-      },
-      {
-        "month": 4,
-        "extent": 13.84
-      },
-      {
-        "month": 5,
-        "extent": 12.25
-      },
-      {
-        "month": 6,
-        "extent": 10.91
-      },
-      {
-        "month": 7,
-        "extent": 7.48
-      },
-      {
-        "month": 8,
-        "extent": 6.05
-      },
-      {
-        "month": 9,
-        "extent": 4.27
-      },
-      {
-        "month": 10,
-        "extent": 5.88
-      },
-      {
-        "month": 11,
-        "extent": 9.14
-      },
-      {
-        "month": 12,
-        "extent": 11.68
-      }
-    ],
-    "2006": [
-      {
-        "month": 1,
-        "extent": 13.15
-      },
-      {
-        "month": 2,
-        "extent": 15.33
-      },
-      {
-        "month": 3,
-        "extent": 14.7
-      },
-      {
-        "month": 4,
-        "extent": 14.48
-      },
-      {
-        "month": 5,
-        "extent": 11.83
-      },
-      {
-        "month": 6,
-        "extent": 11.25
-      },
-      {
-        "month": 7,
-        "extent": 8.6
-      },
-      {
-        "month": 8,
-        "extent": 5.72
-      },
-      {
-        "month": 9,
-        "extent": 4.12
-      },
-      {
-        "month": 10,
-        "extent": 6.21
-      },
-      {
-        "month": 11,
-        "extent": 9.15
-      },
-      {
-        "month": 12,
-        "extent": 11.31
-      }
-    ],
-    "2007": [
-      {
-        "month": 1,
-        "extent": 13.62
-      },
-      {
-        "month": 2,
-        "extent": 14.53
-      },
-      {
-        "month": 3,
-        "extent": 15.07
-      },
-      {
-        "month": 4,
-        "extent": 13.99
-      },
-      {
-        "month": 5,
-        "extent": 12.16
-      },
-      {
-        "month": 6,
-        "extent": 10.49
-      },
-      {
-        "month": 7,
-        "extent": 7.98
-      },
-      {
-        "month": 8,
-        "extent": 5.23
-      },
-      {
-        "month": 9,
-        "extent": 3.63
-      },
-      {
-        "month": 10,
-        "extent": 6.25
-      },
-      {
-        "month": 11,
-        "extent": 9.53
-      },
-      {
-        "month": 12,
-        "extent": 11.37
-      }
-    ],
-    "2008": [
-      {
-        "month": 1,
-        "extent": 13.89
-      },
-      {
-        "month": 2,
-        "extent": 14.96
-      },
-      {
-        "month": 3,
-        "extent": 14.66
-      },
-      {
-        "month": 4,
-        "extent": 13.96
-      },
-      {
-        "month": 5,
-        "extent": 11.98
-      },
-      {
-        "month": 6,
-        "extent": 10.79
-      },
-      {
-        "month": 7,
-        "extent": 8.63
-      },
-      {
-        "month": 8,
-        "extent": 5.91
-      },
-      {
-        "month": 9,
-        "extent": 4.52
-      },
-      {
-        "month": 10,
-        "extent": 6.44
-      },
-      {
-        "month": 11,
-        "extent": 8.99
-      },
-      {
-        "month": 12,
-        "extent": 11.38
-      }
-    ],
-    "2009": [
-      {
-        "month": 1,
-        "extent": 13.95
-      },
-      {
-        "month": 2,
-        "extent": 14.39
-      },
-      {
-        "month": 3,
-        "extent": 14.77
-      },
-      {
-        "month": 4,
-        "extent": 14.16
-      },
-      {
-        "month": 5,
-        "extent": 11.8
-      },
-      {
-        "month": 6,
-        "extent": 10.93
-      },
-      {
-        "month": 7,
-        "extent": 8.21
-      },
-      {
-        "month": 8,
-        "extent": 5.6
-      },
-      {
-        "month": 9,
-        "extent": 4.41
-      },
-      {
-        "month": 10,
-        "extent": 6.3
-      },
-      {
-        "month": 11,
-        "extent": 9.06
-      },
-      {
-        "month": 12,
-        "extent": 11.86
-      }
-    ],
-    "2010": [
-      {
-        "month": 1,
-        "extent": 13.44
-      },
-      {
-        "month": 2,
-        "extent": 14.71
-      },
-      {
-        "month": 3,
-        "extent": 15.02
-      },
-      {
-        "month": 4,
-        "extent": 14.04
-      },
-      {
-        "month": 5,
-        "extent": 11.72
-      },
-      {
-        "month": 6,
-        "extent": 10.74
-      },
-      {
-        "month": 7,
-        "extent": 8.09
-      },
-      {
-        "month": 8,
-        "extent": 5.72
-      },
-      {
-        "month": 9,
-        "extent": 3.84
-      },
-      {
-        "month": 10,
-        "extent": 5.53
-      },
-      {
-        "month": 11,
-        "extent": 9.93
-      },
-      {
-        "month": 12,
-        "extent": 11.94
-      }
-    ],
-    "2011": [
-      {
-        "month": 1,
-        "extent": 13.49
-      },
-      {
-        "month": 2,
-        "extent": 14.35
-      },
-      {
-        "month": 3,
-        "extent": 14.88
-      },
-      {
-        "month": 4,
-        "extent": 13.93
-      },
-      {
-        "month": 5,
-        "extent": 12.41
-      },
-      {
-        "month": 6,
-        "extent": 10.24
-      },
-      {
-        "month": 7,
-        "extent": 8.24
-      },
-      {
-        "month": 8,
-        "extent": 5.4
-      },
-      {
-        "month": 9,
-        "extent": 3.26
-      },
-      {
-        "month": 10,
-        "extent": 5.83
-      },
-      {
-        "month": 11,
-        "extent": 9.2
-      },
-      {
-        "month": 12,
-        "extent": 11.31
-      }
-    ],
-    "2012": [
-      {
-        "month": 1,
-        "extent": 13.32
+        "extent": 13.9
       },
       {
         "month": 2,
@@ -629,107 +29,307 @@
       },
       {
         "month": 3,
-        "extent": 14.55
+        "extent": 14.71
       },
       {
         "month": 4,
-        "extent": 14.46
+        "extent": 14.49
       },
       {
         "month": 5,
-        "extent": 11.91
+        "extent": 12.83
       },
       {
         "month": 6,
-        "extent": 10.94
+        "extent": 10.93
       },
       {
         "month": 7,
-        "extent": 7.67
+        "extent": 8.87
       },
       {
         "month": 8,
-        "extent": 4.68
+        "extent": 5.57
       },
       {
         "month": 9,
-        "extent": 4.26
+        "extent": 3.95
       },
       {
         "month": 10,
-        "extent": 5.95
+        "extent": 6.44
       },
       {
         "month": 11,
-        "extent": 8.53
+        "extent": 9.87
       },
       {
         "month": 12,
-        "extent": 11.81
+        "extent": 12.09
       }
     ],
-    "2013": [
+    "2001": [
       {
         "month": 1,
-        "extent": 13.21
+        "extent": 14.33
       },
       {
         "month": 2,
-        "extent": 14.14
+        "extent": 14.95
       },
       {
         "month": 3,
-        "extent": 14.59
+        "extent": 15.31
       },
       {
         "month": 4,
-        "extent": 13.7
+        "extent": 15.05
       },
       {
         "month": 5,
-        "extent": 11.89
+        "extent": 11.9
       },
       {
         "month": 6,
-        "extent": 10.21
+        "extent": 11.19
       },
       {
         "month": 7,
-        "extent": 7.9
+        "extent": 8.61
       },
       {
         "month": 8,
-        "extent": 5.4
+        "extent": 6.26
       },
       {
         "month": 9,
-        "extent": 3.88
+        "extent": 4.35
       },
       {
         "month": 10,
-        "extent": 5.86
+        "extent": 6.52
       },
       {
         "month": 11,
-        "extent": 8.62
+        "extent": 9.56
       },
       {
         "month": 12,
-        "extent": 11.41
+        "extent": 12.14
       }
     ],
-    "2014": [
+    "2002": [
       {
         "month": 1,
-        "extent": 13.07
+        "extent": 14.67
       },
       {
         "month": 2,
-        "extent": 14.57
+        "extent": 14.99
       },
       {
         "month": 3,
-        "extent": 14.39
+        "extent": 15.33
+      },
+      {
+        "month": 4,
+        "extent": 14.04
+      },
+      {
+        "month": 5,
+        "extent": 12.08
+      },
+      {
+        "month": 6,
+        "extent": 10.67
+      },
+      {
+        "month": 7,
+        "extent": 8.28
+      },
+      {
+        "month": 8,
+        "extent": 6.42
+      },
+      {
+        "month": 9,
+        "extent": 4.51
+      },
+      {
+        "month": 10,
+        "extent": 6.68
+      },
+      {
+        "month": 11,
+        "extent": 9.78
+      },
+      {
+        "month": 12,
+        "extent": 11.55
+      }
+    ],
+    "2003": [
+      {
+        "month": 1,
+        "extent": 13.76
+      },
+      {
+        "month": 2,
+        "extent": 15.03
+      },
+      {
+        "month": 3,
+        "extent": 14.93
+      },
+      {
+        "month": 4,
+        "extent": 14.34
+      },
+      {
+        "month": 5,
+        "extent": 12.2
+      },
+      {
+        "month": 6,
+        "extent": 10.75
+      },
+      {
+        "month": 7,
+        "extent": 8.44
+      },
+      {
+        "month": 8,
+        "extent": 5.96
+      },
+      {
+        "month": 9,
+        "extent": 4.36
+      },
+      {
+        "month": 10,
+        "extent": 6.47
+      },
+      {
+        "month": 11,
+        "extent": 9.36
+      },
+      {
+        "month": 12,
+        "extent": 12.01
+      }
+    ],
+    "2004": [
+      {
+        "month": 1,
+        "extent": 14.2
+      },
+      {
+        "month": 2,
+        "extent": 15.26
+      },
+      {
+        "month": 3,
+        "extent": 14.95
+      },
+      {
+        "month": 4,
+        "extent": 14.23
+      },
+      {
+        "month": 5,
+        "extent": 12.27
+      },
+      {
+        "month": 6,
+        "extent": 10.95
+      },
+      {
+        "month": 7,
+        "extent": 8.47
+      },
+      {
+        "month": 8,
+        "extent": 5.97
+      },
+      {
+        "month": 9,
+        "extent": 4.9
+      },
+      {
+        "month": 10,
+        "extent": 6.54
+      },
+      {
+        "month": 11,
+        "extent": 9.21
+      },
+      {
+        "month": 12,
+        "extent": 11.26
+      }
+    ],
+    "2005": [
+      {
+        "month": 1,
+        "extent": 13.84
+      },
+      {
+        "month": 2,
+        "extent": 14.63
+      },
+      {
+        "month": 3,
+        "extent": 14.8
+      },
+      {
+        "month": 4,
+        "extent": 14.38
+      },
+      {
+        "month": 5,
+        "extent": 12.29
+      },
+      {
+        "month": 6,
+        "extent": 10.93
+      },
+      {
+        "month": 7,
+        "extent": 8.63
+      },
+      {
+        "month": 8,
+        "extent": 5.99
+      },
+      {
+        "month": 9,
+        "extent": 4.63
+      },
+      {
+        "month": 10,
+        "extent": 6.38
+      },
+      {
+        "month": 11,
+        "extent": 9.14
+      },
+      {
+        "month": 12,
+        "extent": 12.32
+      }
+    ],
+    "2006": [
+      {
+        "month": 1,
+        "extent": 13.89
+      },
+      {
+        "month": 2,
+        "extent": 14.37
+      },
+      {
+        "month": 3,
+        "extent": 14.83
       },
       {
         "month": 4,
@@ -737,311 +337,111 @@
       },
       {
         "month": 5,
-        "extent": 11.85
+        "extent": 11.98
       },
       {
         "month": 6,
-        "extent": 10.36
+        "extent": 11.07
       },
       {
         "month": 7,
-        "extent": 7.71
+        "extent": 7.85
       },
       {
         "month": 8,
-        "extent": 5.34
+        "extent": 5.7
       },
       {
         "month": 9,
-        "extent": 4.02
+        "extent": 4.3
       },
       {
         "month": 10,
-        "extent": 5.82
+        "extent": 5.84
       },
       {
         "month": 11,
-        "extent": 8.33
+        "extent": 8.78
       },
       {
         "month": 12,
-        "extent": 11.13
+        "extent": 11.83
       }
     ],
-    "2015": [
+    "2007": [
       {
         "month": 1,
-        "extent": 14.06
+        "extent": 13.71
       },
       {
         "month": 2,
-        "extent": 14.4
+        "extent": 14.43
       },
       {
         "month": 3,
-        "extent": 14.64
+        "extent": 15.12
       },
       {
         "month": 4,
-        "extent": 14.07
+        "extent": 13.83
       },
       {
         "month": 5,
-        "extent": 11.46
+        "extent": 12.1
       },
       {
         "month": 6,
-        "extent": 10.7
+        "extent": 10.52
       },
       {
         "month": 7,
-        "extent": 7.95
+        "extent": 7.79
       },
       {
         "month": 8,
-        "extent": 5.22
+        "extent": 5.0
       },
       {
         "month": 9,
-        "extent": 3.68
+        "extent": 3.66
       },
       {
         "month": 10,
-        "extent": 6.15
+        "extent": 6.09
       },
       {
         "month": 11,
-        "extent": 8.65
+        "extent": 9.28
       },
       {
         "month": 12,
-        "extent": 11.26
+        "extent": 12.26
       }
     ],
-    "2016": [
+    "2008": [
       {
         "month": 1,
-        "extent": 13.11
+        "extent": 13.47
       },
       {
         "month": 2,
-        "extent": 14.32
+        "extent": 14.6
       },
       {
         "month": 3,
-        "extent": 14.7
+        "extent": 15.13
       },
       {
         "month": 4,
-        "extent": 13.62
+        "extent": 14.33
       },
       {
         "month": 5,
-        "extent": 12.33
+        "extent": 12.12
       },
       {
         "month": 6,
-        "extent": 9.72
-      },
-      {
-        "month": 7,
-        "extent": 7.71
-      },
-      {
-        "month": 8,
-        "extent": 5.13
-      },
-      {
-        "month": 9,
-        "extent": 3.87
-      },
-      {
-        "month": 10,
-        "extent": 5.09
-      },
-      {
-        "month": 11,
-        "extent": 8.68
-      },
-      {
-        "month": 12,
-        "extent": 11.31
-      }
-    ],
-    "2017": [
-      {
-        "month": 1,
-        "extent": 13.4
-      },
-      {
-        "month": 2,
-        "extent": 14.41
-      },
-      {
-        "month": 3,
-        "extent": 14.68
-      },
-      {
-        "month": 4,
-        "extent": 13.85
-      },
-      {
-        "month": 5,
-        "extent": 11.43
-      },
-      {
-        "month": 6,
-        "extent": 10.95
-      },
-      {
-        "month": 7,
-        "extent": 6.92
-      },
-      {
-        "month": 8,
-        "extent": 4.76
-      },
-      {
-        "month": 9,
-        "extent": 3.13
-      },
-      {
-        "month": 10,
-        "extent": 5.74
-      },
-      {
-        "month": 11,
-        "extent": 8.75
-      },
-      {
-        "month": 12,
-        "extent": 10.7
-      }
-    ],
-    "2018": [
-      {
-        "month": 1,
-        "extent": 13.2
-      },
-      {
-        "month": 2,
-        "extent": 13.97
-      },
-      {
-        "month": 3,
-        "extent": 14.32
-      },
-      {
-        "month": 4,
-        "extent": 13.72
-      },
-      {
-        "month": 5,
-        "extent": 10.95
-      },
-      {
-        "month": 6,
-        "extent": 9.99
-      },
-      {
-        "month": 7,
-        "extent": 7.87
-      },
-      {
-        "month": 8,
-        "extent": 5.32
-      },
-      {
-        "month": 9,
-        "extent": 3.25
-      },
-      {
-        "month": 10,
-        "extent": 5.74
-      },
-      {
-        "month": 11,
-        "extent": 8.32
-      },
-      {
-        "month": 12,
-        "extent": 11.12
-      }
-    ],
-    "2019": [
-      {
-        "month": 1,
-        "extent": 13.0
-      },
-      {
-        "month": 2,
-        "extent": 14.38
-      },
-      {
-        "month": 3,
-        "extent": 14.04
-      },
-      {
-        "month": 4,
-        "extent": 13.97
-      },
-      {
-        "month": 5,
-        "extent": 11.51
-      },
-      {
-        "month": 6,
-        "extent": 10.27
-      },
-      {
-        "month": 7,
-        "extent": 7.97
-      },
-      {
-        "month": 8,
-        "extent": 4.91
-      },
-      {
-        "month": 9,
-        "extent": 3.18
-      },
-      {
-        "month": 10,
-        "extent": 5.4
-      },
-      {
-        "month": 11,
-        "extent": 8.55
-      },
-      {
-        "month": 12,
-        "extent": 10.5
-      }
-    ],
-    "2020": [
-      {
-        "month": 1,
-        "extent": 12.68
-      },
-      {
-        "month": 2,
-        "extent": 13.87
-      },
-      {
-        "month": 3,
-        "extent": 14.34
-      },
-      {
-        "month": 4,
-        "extent": 13.62
-      },
-      {
-        "month": 5,
-        "extent": 11.57
-      },
-      {
-        "month": 6,
-        "extent": 9.68
+        "extent": 10.47
       },
       {
         "month": 7,
@@ -1049,45 +449,295 @@
       },
       {
         "month": 8,
-        "extent": 5.09
-      },
-      {
-        "month": 9,
-        "extent": 3.4
-      },
-      {
-        "month": 10,
         "extent": 5.32
       },
       {
+        "month": 9,
+        "extent": 4.29
+      },
+      {
+        "month": 10,
+        "extent": 6.04
+      },
+      {
         "month": 11,
-        "extent": 8.31
+        "extent": 9.1
       },
       {
         "month": 12,
-        "extent": 11.47
+        "extent": 11.23
       }
     ],
-    "2021": [
+    "2009": [
       {
         "month": 1,
-        "extent": 12.91
+        "extent": 13.0
       },
       {
         "month": 2,
-        "extent": 13.85
+        "extent": 13.96
       },
       {
         "month": 3,
-        "extent": 14.17
+        "extent": 14.6
       },
       {
         "month": 4,
-        "extent": 13.31
+        "extent": 13.66
       },
       {
         "month": 5,
-        "extent": 11.17
+        "extent": 11.97
+      },
+      {
+        "month": 6,
+        "extent": 11.02
+      },
+      {
+        "month": 7,
+        "extent": 8.05
+      },
+      {
+        "month": 8,
+        "extent": 5.46
+      },
+      {
+        "month": 9,
+        "extent": 3.87
+      },
+      {
+        "month": 10,
+        "extent": 5.95
+      },
+      {
+        "month": 11,
+        "extent": 9.26
+      },
+      {
+        "month": 12,
+        "extent": 11.68
+      }
+    ],
+    "2010": [
+      {
+        "month": 1,
+        "extent": 13.86
+      },
+      {
+        "month": 2,
+        "extent": 14.46
+      },
+      {
+        "month": 3,
+        "extent": 14.88
+      },
+      {
+        "month": 4,
+        "extent": 13.88
+      },
+      {
+        "month": 5,
+        "extent": 11.82
+      },
+      {
+        "month": 6,
+        "extent": 9.8
+      },
+      {
+        "month": 7,
+        "extent": 7.78
+      },
+      {
+        "month": 8,
+        "extent": 5.85
+      },
+      {
+        "month": 9,
+        "extent": 4.31
+      },
+      {
+        "month": 10,
+        "extent": 6.28
+      },
+      {
+        "month": 11,
+        "extent": 9.45
+      },
+      {
+        "month": 12,
+        "extent": 11.07
+      }
+    ],
+    "2011": [
+      {
+        "month": 1,
+        "extent": 13.54
+      },
+      {
+        "month": 2,
+        "extent": 14.66
+      },
+      {
+        "month": 3,
+        "extent": 14.86
+      },
+      {
+        "month": 4,
+        "extent": 14.33
+      },
+      {
+        "month": 5,
+        "extent": 11.88
+      },
+      {
+        "month": 6,
+        "extent": 10.88
+      },
+      {
+        "month": 7,
+        "extent": 7.35
+      },
+      {
+        "month": 8,
+        "extent": 5.34
+      },
+      {
+        "month": 9,
+        "extent": 3.97
+      },
+      {
+        "month": 10,
+        "extent": 5.47
+      },
+      {
+        "month": 11,
+        "extent": 9.24
+      },
+      {
+        "month": 12,
+        "extent": 11.48
+      }
+    ],
+    "2012": [
+      {
+        "month": 1,
+        "extent": 14.04
+      },
+      {
+        "month": 2,
+        "extent": 14.46
+      },
+      {
+        "month": 3,
+        "extent": 13.98
+      },
+      {
+        "month": 4,
+        "extent": 14.15
+      },
+      {
+        "month": 5,
+        "extent": 11.67
+      },
+      {
+        "month": 6,
+        "extent": 10.23
+      },
+      {
+        "month": 7,
+        "extent": 8.09
+      },
+      {
+        "month": 8,
+        "extent": 5.57
+      },
+      {
+        "month": 9,
+        "extent": 3.84
+      },
+      {
+        "month": 10,
+        "extent": 5.41
+      },
+      {
+        "month": 11,
+        "extent": 8.61
+      },
+      {
+        "month": 12,
+        "extent": 10.95
+      }
+    ],
+    "2013": [
+      {
+        "month": 1,
+        "extent": 13.84
+      },
+      {
+        "month": 2,
+        "extent": 14.18
+      },
+      {
+        "month": 3,
+        "extent": 14.43
+      },
+      {
+        "month": 4,
+        "extent": 13.96
+      },
+      {
+        "month": 5,
+        "extent": 11.82
+      },
+      {
+        "month": 6,
+        "extent": 9.55
+      },
+      {
+        "month": 7,
+        "extent": 7.81
+      },
+      {
+        "month": 8,
+        "extent": 5.1
+      },
+      {
+        "month": 9,
+        "extent": 3.97
+      },
+      {
+        "month": 10,
+        "extent": 6.27
+      },
+      {
+        "month": 11,
+        "extent": 8.65
+      },
+      {
+        "month": 12,
+        "extent": 11.3
+      }
+    ],
+    "2014": [
+      {
+        "month": 1,
+        "extent": 12.7
+      },
+      {
+        "month": 2,
+        "extent": 14.47
+      },
+      {
+        "month": 3,
+        "extent": 14.04
+      },
+      {
+        "month": 4,
+        "extent": 13.92
+      },
+      {
+        "month": 5,
+        "extent": 12.0
       },
       {
         "month": 6,
@@ -1095,157 +745,57 @@
       },
       {
         "month": 7,
-        "extent": 7.92
+        "extent": 8.1
       },
       {
         "month": 8,
-        "extent": 5.47
+        "extent": 5.07
       },
       {
         "month": 9,
-        "extent": 2.98
+        "extent": 3.23
       },
       {
         "month": 10,
-        "extent": 5.96
+        "extent": 6.2
       },
       {
         "month": 11,
-        "extent": 8.57
+        "extent": 9.26
       },
       {
         "month": 12,
-        "extent": 11.18
-      }
-    ],
-    "2022": [
-      {
-        "month": 1,
-        "extent": 13.18
-      },
-      {
-        "month": 2,
-        "extent": 14.26
-      },
-      {
-        "month": 3,
-        "extent": 14.23
-      },
-      {
-        "month": 4,
-        "extent": 12.75
-      },
-      {
-        "month": 5,
         "extent": 11.56
+      }
+    ],
+    "2015": [
+      {
+        "month": 1,
+        "extent": 13.06
       },
       {
-        "month": 6,
-        "extent": 9.4
+        "month": 2,
+        "extent": 14.04
       },
       {
-        "month": 7,
-        "extent": 7.69
+        "month": 3,
+        "extent": 14.58
       },
       {
-        "month": 8,
-        "extent": 4.67
+        "month": 4,
+        "extent": 13.22
       },
       {
-        "month": 9,
-        "extent": 3.41
-      },
-      {
-        "month": 10,
-        "extent": 5.6
-      },
-      {
-        "month": 11,
-        "extent": 8.43
-      },
-      {
-        "month": 12,
+        "month": 5,
         "extent": 10.97
-      }
-    ],
-    "2023": [
-      {
-        "month": 1,
-        "extent": 13.32
-      },
-      {
-        "month": 2,
-        "extent": 13.92
-      },
-      {
-        "month": 3,
-        "extent": 13.93
-      },
-      {
-        "month": 4,
-        "extent": 13.69
-      },
-      {
-        "month": 5,
-        "extent": 11.05
       },
       {
         "month": 6,
-        "extent": 10.1
+        "extent": 10.25
       },
       {
         "month": 7,
-        "extent": 7.12
-      },
-      {
-        "month": 8,
-        "extent": 4.85
-      },
-      {
-        "month": 9,
-        "extent": 3.42
-      },
-      {
-        "month": 10,
-        "extent": 5.34
-      },
-      {
-        "month": 11,
-        "extent": 8.54
-      },
-      {
-        "month": 12,
-        "extent": 10.6
-      }
-    ],
-    "2024": [
-      {
-        "month": 1,
-        "extent": 12.73
-      },
-      {
-        "month": 2,
-        "extent": 13.86
-      },
-      {
-        "month": 3,
-        "extent": 14.18
-      },
-      {
-        "month": 4,
-        "extent": 13.35
-      },
-      {
-        "month": 5,
-        "extent": 11.36
-      },
-      {
-        "month": 6,
-        "extent": 9.66
-      },
-      {
-        "month": 7,
-        "extent": 7.27
+        "extent": 7.87
       },
       {
         "month": 8,
@@ -1253,41 +803,141 @@
       },
       {
         "month": 9,
-        "extent": 3.47
+        "extent": 3.7
       },
       {
         "month": 10,
-        "extent": 5.23
+        "extent": 5.84
       },
       {
         "month": 11,
-        "extent": 8.32
+        "extent": 8.85
       },
       {
         "month": 12,
-        "extent": 10.86
+        "extent": 11.1
       }
     ],
-    "2025": [
+    "2016": [
       {
         "month": 1,
-        "extent": 12.73
-      },
-      {
-        "month": 2,
-        "extent": 14.25
-      },
-      {
-        "month": 3,
-        "extent": 14.19
-      },
-      {
-        "month": 4,
         "extent": 13.3
       },
       {
+        "month": 2,
+        "extent": 14.3
+      },
+      {
+        "month": 3,
+        "extent": 14.27
+      },
+      {
+        "month": 4,
+        "extent": 13.82
+      },
+      {
         "month": 5,
-        "extent": 11.28
+        "extent": 11.31
+      },
+      {
+        "month": 6,
+        "extent": 10.56
+      },
+      {
+        "month": 7,
+        "extent": 7.81
+      },
+      {
+        "month": 8,
+        "extent": 4.93
+      },
+      {
+        "month": 9,
+        "extent": 3.15
+      },
+      {
+        "month": 10,
+        "extent": 5.97
+      },
+      {
+        "month": 11,
+        "extent": 8.81
+      },
+      {
+        "month": 12,
+        "extent": 10.92
+      }
+    ],
+    "2017": [
+      {
+        "month": 1,
+        "extent": 13.52
+      },
+      {
+        "month": 2,
+        "extent": 14.54
+      },
+      {
+        "month": 3,
+        "extent": 14.52
+      },
+      {
+        "month": 4,
+        "extent": 13.73
+      },
+      {
+        "month": 5,
+        "extent": 11.94
+      },
+      {
+        "month": 6,
+        "extent": 10.84
+      },
+      {
+        "month": 7,
+        "extent": 7.73
+      },
+      {
+        "month": 8,
+        "extent": 5.4
+      },
+      {
+        "month": 9,
+        "extent": 3.92
+      },
+      {
+        "month": 10,
+        "extent": 5.81
+      },
+      {
+        "month": 11,
+        "extent": 8.54
+      },
+      {
+        "month": 12,
+        "extent": 11.08
+      }
+    ],
+    "2018": [
+      {
+        "month": 1,
+        "extent": 13.46
+      },
+      {
+        "month": 2,
+        "extent": 14.04
+      },
+      {
+        "month": 3,
+        "extent": 14.5
+      },
+      {
+        "month": 4,
+        "extent": 13.87
+      },
+      {
+        "month": 5,
+        "extent": 11.78
       },
       {
         "month": 6,
@@ -1295,49 +945,399 @@
       },
       {
         "month": 7,
-        "extent": 7.12
+        "extent": 8.2
       },
       {
         "month": 8,
-        "extent": 5.17
+        "extent": 4.97
       },
       {
         "month": 9,
-        "extent": 4.0
+        "extent": 3.85
       },
       {
         "month": 10,
-        "extent": 5.02
+        "extent": 5.88
       },
       {
         "month": 11,
-        "extent": 8.47
+        "extent": 8.75
       },
       {
         "month": 12,
-        "extent": 10.38
+        "extent": 11.3
+      }
+    ],
+    "2019": [
+      {
+        "month": 1,
+        "extent": 12.97
+      },
+      {
+        "month": 2,
+        "extent": 13.9
+      },
+      {
+        "month": 3,
+        "extent": 14.5
+      },
+      {
+        "month": 4,
+        "extent": 13.05
+      },
+      {
+        "month": 5,
+        "extent": 11.63
+      },
+      {
+        "month": 6,
+        "extent": 10.12
+      },
+      {
+        "month": 7,
+        "extent": 7.87
+      },
+      {
+        "month": 8,
+        "extent": 4.42
+      },
+      {
+        "month": 9,
+        "extent": 3.65
+      },
+      {
+        "month": 10,
+        "extent": 5.77
+      },
+      {
+        "month": 11,
+        "extent": 8.61
+      },
+      {
+        "month": 12,
+        "extent": 10.67
+      }
+    ],
+    "2020": [
+      {
+        "month": 1,
+        "extent": 12.59
+      },
+      {
+        "month": 2,
+        "extent": 13.9
+      },
+      {
+        "month": 3,
+        "extent": 14.26
+      },
+      {
+        "month": 4,
+        "extent": 13.36
+      },
+      {
+        "month": 5,
+        "extent": 11.26
+      },
+      {
+        "month": 6,
+        "extent": 10.77
+      },
+      {
+        "month": 7,
+        "extent": 7.36
+      },
+      {
+        "month": 8,
+        "extent": 4.98
+      },
+      {
+        "month": 9,
+        "extent": 3.15
+      },
+      {
+        "month": 10,
+        "extent": 5.88
+      },
+      {
+        "month": 11,
+        "extent": 8.14
+      },
+      {
+        "month": 12,
+        "extent": 10.88
+      }
+    ],
+    "2021": [
+      {
+        "month": 1,
+        "extent": 12.72
+      },
+      {
+        "month": 2,
+        "extent": 13.31
+      },
+      {
+        "month": 3,
+        "extent": 14.64
+      },
+      {
+        "month": 4,
+        "extent": 13.93
+      },
+      {
+        "month": 5,
+        "extent": 11.13
+      },
+      {
+        "month": 6,
+        "extent": 9.94
+      },
+      {
+        "month": 7,
+        "extent": 7.31
+      },
+      {
+        "month": 8,
+        "extent": 5.15
+      },
+      {
+        "month": 9,
+        "extent": 3.91
+      },
+      {
+        "month": 10,
+        "extent": 5.59
+      },
+      {
+        "month": 11,
+        "extent": 7.91
+      },
+      {
+        "month": 12,
+        "extent": 10.92
+      }
+    ],
+    "2022": [
+      {
+        "month": 1,
+        "extent": 12.59
+      },
+      {
+        "month": 2,
+        "extent": 14.08
+      },
+      {
+        "month": 3,
+        "extent": 14.31
+      },
+      {
+        "month": 4,
+        "extent": 13.34
+      },
+      {
+        "month": 5,
+        "extent": 11.58
+      },
+      {
+        "month": 6,
+        "extent": 10.04
+      },
+      {
+        "month": 7,
+        "extent": 6.68
+      },
+      {
+        "month": 8,
+        "extent": 4.23
+      },
+      {
+        "month": 9,
+        "extent": 3.74
+      },
+      {
+        "month": 10,
+        "extent": 5.46
+      },
+      {
+        "month": 11,
+        "extent": 8.67
+      },
+      {
+        "month": 12,
+        "extent": 10.52
+      }
+    ],
+    "2023": [
+      {
+        "month": 1,
+        "extent": 12.83
+      },
+      {
+        "month": 2,
+        "extent": 14.19
+      },
+      {
+        "month": 3,
+        "extent": 14.12
+      },
+      {
+        "month": 4,
+        "extent": 13.22
+      },
+      {
+        "month": 5,
+        "extent": 11.57
+      },
+      {
+        "month": 6,
+        "extent": 9.74
+      },
+      {
+        "month": 7,
+        "extent": 7.21
+      },
+      {
+        "month": 8,
+        "extent": 4.87
+      },
+      {
+        "month": 9,
+        "extent": 2.93
+      },
+      {
+        "month": 10,
+        "extent": 5.19
+      },
+      {
+        "month": 11,
+        "extent": 8.2
+      },
+      {
+        "month": 12,
+        "extent": 11.72
+      }
+    ],
+    "2024": [
+      {
+        "month": 1,
+        "extent": 13.46
+      },
+      {
+        "month": 2,
+        "extent": 13.71
+      },
+      {
+        "month": 3,
+        "extent": 13.66
+      },
+      {
+        "month": 4,
+        "extent": 12.98
+      },
+      {
+        "month": 5,
+        "extent": 10.99
+      },
+      {
+        "month": 6,
+        "extent": 10.6
+      },
+      {
+        "month": 7,
+        "extent": 7.5
+      },
+      {
+        "month": 8,
+        "extent": 4.64
+      },
+      {
+        "month": 9,
+        "extent": 2.81
+      },
+      {
+        "month": 10,
+        "extent": 5.63
+      },
+      {
+        "month": 11,
+        "extent": 8.45
+      },
+      {
+        "month": 12,
+        "extent": 10.83
+      }
+    ],
+    "2025": [
+      {
+        "month": 1,
+        "extent": 13.1
+      },
+      {
+        "month": 2,
+        "extent": 13.59
+      },
+      {
+        "month": 3,
+        "extent": 13.45
+      },
+      {
+        "month": 4,
+        "extent": 13.44
+      },
+      {
+        "month": 5,
+        "extent": 11.36
+      },
+      {
+        "month": 6,
+        "extent": 9.89
+      },
+      {
+        "month": 7,
+        "extent": 7.28
+      },
+      {
+        "month": 8,
+        "extent": 4.57
+      },
+      {
+        "month": 9,
+        "extent": 3.3
+      },
+      {
+        "month": 10,
+        "extent": 5.2
+      },
+      {
+        "month": 11,
+        "extent": 8.34
+      },
+      {
+        "month": 12,
+        "extent": 11.19
       }
     ],
     "2026": [
       {
         "month": 1,
-        "extent": 13.23
+        "extent": 12.56
       },
       {
         "month": 2,
-        "extent": 13.51
+        "extent": 13.56
       },
       {
         "month": 3,
-        "extent": 14.1
+        "extent": 14.57
       },
       {
         "month": 4,
-        "extent": 13.48
+        "extent": 13.36
       },
       {
         "month": 5,
-        "extent": 11.25
+        "extent": 11.76
       }
     ]
   }
