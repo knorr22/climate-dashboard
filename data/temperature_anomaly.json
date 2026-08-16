@@ -2,7 +2,7 @@
   "source": "NASA Goddard Institute for Space Studies",
   "baseline": "1951-1980",
   "unit": "°C",
-  "last_updated": "2026-08-09T03:42:50.205200Z",
+  "last_updated": "2026-08-16T02:59:56.310183Z",
   "data": [
     {
       "year": 1880,
@@ -17,22 +17,22 @@
     {
       "year": 1880,
       "month": 3,
-      "anomaly": -0.1
+      "anomaly": -0.09
     },
     {
       "year": 1880,
       "month": 4,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1880,
       "month": 5,
-      "anomaly": -0.11
+      "anomaly": -0.1
     },
     {
       "year": 1880,
       "month": 6,
-      "anomaly": -0.22
+      "anomaly": -0.21
     },
     {
       "year": 1880,
@@ -42,7 +42,7 @@
     {
       "year": 1880,
       "month": 8,
-      "anomaly": -0.11
+      "anomaly": -0.1
     },
     {
       "year": 1880,
@@ -57,12 +57,12 @@
     {
       "year": 1880,
       "month": 11,
-      "anomaly": -0.23
+      "anomaly": -0.22
     },
     {
       "year": 1880,
       "month": 12,
-      "anomaly": -0.19
+      "anomaly": -0.18
     },
     {
       "year": 1881,
@@ -72,17 +72,17 @@
     {
       "year": 1881,
       "month": 2,
-      "anomaly": -0.16
+      "anomaly": -0.14
     },
     {
       "year": 1881,
       "month": 3,
-      "anomaly": 0.02
+      "anomaly": 0.03
     },
     {
       "year": 1881,
       "month": 4,
-      "anomaly": 0.04
+      "anomaly": 0.05
     },
     {
       "year": 1881,
@@ -97,7 +97,7 @@
     {
       "year": 1881,
       "month": 7,
-      "anomaly": 0.01
+      "anomaly": 0.0
     },
     {
       "year": 1881,
@@ -107,12 +107,12 @@
     {
       "year": 1881,
       "month": 9,
-      "anomaly": -0.16
+      "anomaly": -0.15
     },
     {
       "year": 1881,
       "month": 10,
-      "anomaly": -0.22
+      "anomaly": -0.21
     },
     {
       "year": 1881,
@@ -132,12 +132,12 @@
     {
       "year": 1882,
       "month": 2,
-      "anomaly": 0.13
+      "anomaly": 0.14
     },
     {
       "year": 1882,
       "month": 3,
-      "anomaly": 0.04
+      "anomaly": 0.05
     },
     {
       "year": 1882,
@@ -152,12 +152,12 @@
     {
       "year": 1882,
       "month": 6,
-      "anomaly": -0.23
+      "anomaly": -0.22
     },
     {
       "year": 1882,
       "month": 7,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1882,
@@ -172,7 +172,7 @@
     {
       "year": 1882,
       "month": 10,
-      "anomaly": -0.24
+      "anomaly": -0.23
     },
     {
       "year": 1882,
@@ -182,7 +182,7 @@
     {
       "year": 1882,
       "month": 12,
-      "anomaly": -0.37
+      "anomaly": -0.36
     },
     {
       "year": 1883,
@@ -192,12 +192,12 @@
     {
       "year": 1883,
       "month": 2,
-      "anomaly": -0.37
+      "anomaly": -0.36
     },
     {
       "year": 1883,
       "month": 3,
-      "anomaly": -0.13
+      "anomaly": -0.12
     },
     {
       "year": 1883,
@@ -207,7 +207,7 @@
     {
       "year": 1883,
       "month": 5,
-      "anomaly": -0.18
+      "anomaly": -0.17
     },
     {
       "year": 1883,
@@ -217,7 +217,7 @@
     {
       "year": 1883,
       "month": 7,
-      "anomaly": -0.08
+      "anomaly": -0.07
     },
     {
       "year": 1883,
@@ -262,12 +262,12 @@
     {
       "year": 1884,
       "month": 4,
-      "anomaly": -0.4
+      "anomaly": -0.39
     },
     {
       "year": 1884,
       "month": 5,
-      "anomaly": -0.34
+      "anomaly": -0.33
     },
     {
       "year": 1884,
@@ -277,7 +277,7 @@
     {
       "year": 1884,
       "month": 7,
-      "anomaly": -0.31
+      "anomaly": -0.3
     },
     {
       "year": 1884,
@@ -297,7 +297,7 @@
     {
       "year": 1884,
       "month": 11,
-      "anomaly": -0.34
+      "anomaly": -0.33
     },
     {
       "year": 1884,
@@ -307,7 +307,7 @@
     {
       "year": 1885,
       "month": 1,
-      "anomaly": -0.59
+      "anomaly": -0.58
     },
     {
       "year": 1885,
@@ -422,7 +422,7 @@
     {
       "year": 1886,
       "month": 12,
-      "anomaly": -0.26
+      "anomaly": -0.25
     },
     {
       "year": 1887,
@@ -462,7 +462,7 @@
     {
       "year": 1887,
       "month": 8,
-      "anomaly": -0.36
+      "anomaly": -0.35
     },
     {
       "year": 1887,
@@ -497,7 +497,7 @@
     {
       "year": 1888,
       "month": 3,
-      "anomaly": -0.41
+      "anomaly": -0.42
     },
     {
       "year": 1888,
@@ -607,7 +607,7 @@
     {
       "year": 1890,
       "month": 1,
-      "anomaly": -0.42
+      "anomaly": -0.43
     },
     {
       "year": 1890,
@@ -642,12 +642,12 @@
     {
       "year": 1890,
       "month": 8,
-      "anomaly": -0.39
+      "anomaly": -0.4
     },
     {
       "year": 1890,
       "month": 9,
-      "anomaly": -0.36
+      "anomaly": -0.37
     },
     {
       "year": 1890,
@@ -687,7 +687,7 @@
     {
       "year": 1891,
       "month": 5,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1891,
@@ -707,7 +707,7 @@
     {
       "year": 1891,
       "month": 9,
-      "anomaly": -0.16
+      "anomaly": -0.15
     },
     {
       "year": 1891,
@@ -727,7 +727,7 @@
     {
       "year": 1892,
       "month": 1,
-      "anomaly": -0.29
+      "anomaly": -0.3
     },
     {
       "year": 1892,
@@ -767,7 +767,7 @@
     {
       "year": 1892,
       "month": 9,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1892,
@@ -837,12 +837,12 @@
     {
       "year": 1893,
       "month": 11,
-      "anomaly": -0.19
+      "anomaly": -0.18
     },
     {
       "year": 1893,
       "month": 12,
-      "anomaly": -0.32
+      "anomaly": -0.31
     },
     {
       "year": 1894,
@@ -887,7 +887,7 @@
     {
       "year": 1894,
       "month": 9,
-      "anomaly": -0.28
+      "anomaly": -0.27
     },
     {
       "year": 1894,
@@ -912,7 +912,7 @@
     {
       "year": 1895,
       "month": 2,
-      "anomaly": -0.42
+      "anomaly": -0.43
     },
     {
       "year": 1895,
@@ -1027,7 +1027,7 @@
     {
       "year": 1897,
       "month": 1,
-      "anomaly": -0.16
+      "anomaly": -0.15
     },
     {
       "year": 1897,
@@ -1112,7 +1112,7 @@
     {
       "year": 1898,
       "month": 6,
-      "anomaly": -0.2
+      "anomaly": -0.19
     },
     {
       "year": 1898,
@@ -1127,7 +1127,7 @@
     {
       "year": 1898,
       "month": 9,
-      "anomaly": -0.22
+      "anomaly": -0.21
     },
     {
       "year": 1898,
@@ -1142,7 +1142,7 @@
     {
       "year": 1898,
       "month": 12,
-      "anomaly": -0.24
+      "anomaly": -0.23
     },
     {
       "year": 1899,
@@ -1207,7 +1207,7 @@
     {
       "year": 1900,
       "month": 1,
-      "anomaly": -0.37
+      "anomaly": -0.36
     },
     {
       "year": 1900,
@@ -1282,7 +1282,7 @@
     {
       "year": 1901,
       "month": 4,
-      "anomaly": -0.03
+      "anomaly": -0.02
     },
     {
       "year": 1901,
@@ -1517,7 +1517,7 @@
     {
       "year": 1905,
       "month": 3,
-      "anomaly": -0.21
+      "anomaly": -0.22
     },
     {
       "year": 1905,
@@ -1702,17 +1702,17 @@
     {
       "year": 1908,
       "month": 4,
-      "anomaly": -0.45
+      "anomaly": -0.44
     },
     {
       "year": 1908,
       "month": 5,
-      "anomaly": -0.38
+      "anomaly": -0.37
     },
     {
       "year": 1908,
       "month": 6,
-      "anomaly": -0.39
+      "anomaly": -0.38
     },
     {
       "year": 1908,
@@ -1742,7 +1742,7 @@
     {
       "year": 1908,
       "month": 12,
-      "anomaly": -0.49
+      "anomaly": -0.5
     },
     {
       "year": 1909,
@@ -1882,7 +1882,7 @@
     {
       "year": 1911,
       "month": 4,
-      "anomaly": -0.55
+      "anomaly": -0.54
     },
     {
       "year": 1911,
@@ -1892,7 +1892,7 @@
     {
       "year": 1911,
       "month": 6,
-      "anomaly": -0.5
+      "anomaly": -0.51
     },
     {
       "year": 1911,
@@ -1967,7 +1967,7 @@
     {
       "year": 1912,
       "month": 9,
-      "anomaly": -0.58
+      "anomaly": -0.57
     },
     {
       "year": 1912,
@@ -2032,7 +2032,7 @@
     {
       "year": 1913,
       "month": 10,
-      "anomaly": -0.32
+      "anomaly": -0.33
     },
     {
       "year": 1913,
@@ -2077,7 +2077,7 @@
     {
       "year": 1914,
       "month": 7,
-      "anomaly": -0.24
+      "anomaly": -0.25
     },
     {
       "year": 1914,
@@ -2087,7 +2087,7 @@
     {
       "year": 1914,
       "month": 9,
-      "anomaly": -0.18
+      "anomaly": -0.17
     },
     {
       "year": 1914,
@@ -2097,7 +2097,7 @@
     {
       "year": 1914,
       "month": 11,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1914,
@@ -2152,7 +2152,7 @@
     {
       "year": 1915,
       "month": 10,
-      "anomaly": -0.25
+      "anomaly": -0.24
     },
     {
       "year": 1915,
@@ -2302,17 +2302,17 @@
     {
       "year": 1918,
       "month": 4,
-      "anomaly": -0.45
-    },
-    {
-      "year": 1918,
-      "month": 5,
       "anomaly": -0.44
     },
     {
       "year": 1918,
+      "month": 5,
+      "anomaly": -0.43
+    },
+    {
+      "year": 1918,
       "month": 6,
-      "anomaly": -0.37
+      "anomaly": -0.36
     },
     {
       "year": 1918,
@@ -2357,7 +2357,7 @@
     {
       "year": 1919,
       "month": 3,
-      "anomaly": -0.22
+      "anomaly": -0.21
     },
     {
       "year": 1919,
@@ -2372,7 +2372,7 @@
     {
       "year": 1919,
       "month": 6,
-      "anomaly": -0.37
+      "anomaly": -0.36
     },
     {
       "year": 1919,
@@ -2382,7 +2382,7 @@
     {
       "year": 1919,
       "month": 8,
-      "anomaly": -0.34
+      "anomaly": -0.33
     },
     {
       "year": 1919,
@@ -2407,22 +2407,22 @@
     {
       "year": 1920,
       "month": 1,
-      "anomaly": -0.26
+      "anomaly": -0.25
     },
     {
       "year": 1920,
       "month": 2,
-      "anomaly": -0.28
+      "anomaly": -0.27
     },
     {
       "year": 1920,
       "month": 3,
-      "anomaly": -0.13
+      "anomaly": -0.12
     },
     {
       "year": 1920,
       "month": 4,
-      "anomaly": -0.25
+      "anomaly": -0.24
     },
     {
       "year": 1920,
@@ -2452,12 +2452,12 @@
     {
       "year": 1920,
       "month": 10,
-      "anomaly": -0.27
+      "anomaly": -0.26
     },
     {
       "year": 1920,
       "month": 11,
-      "anomaly": -0.28
+      "anomaly": -0.27
     },
     {
       "year": 1920,
@@ -2502,7 +2502,7 @@
     {
       "year": 1921,
       "month": 8,
-      "anomaly": -0.27
+      "anomaly": -0.26
     },
     {
       "year": 1921,
@@ -2572,7 +2572,7 @@
     {
       "year": 1922,
       "month": 10,
-      "anomaly": -0.32
+      "anomaly": -0.31
     },
     {
       "year": 1922,
@@ -2592,7 +2592,7 @@
     {
       "year": 1923,
       "month": 2,
-      "anomaly": -0.4
+      "anomaly": -0.39
     },
     {
       "year": 1923,
@@ -2607,12 +2607,12 @@
     {
       "year": 1923,
       "month": 5,
-      "anomaly": -0.34
+      "anomaly": -0.33
     },
     {
       "year": 1923,
       "month": 6,
-      "anomaly": -0.3
+      "anomaly": -0.29
     },
     {
       "year": 1923,
@@ -2622,7 +2622,7 @@
     {
       "year": 1923,
       "month": 8,
-      "anomaly": -0.34
+      "anomaly": -0.33
     },
     {
       "year": 1923,
@@ -2632,22 +2632,22 @@
     {
       "year": 1923,
       "month": 10,
-      "anomaly": -0.14
+      "anomaly": -0.13
     },
     {
       "year": 1923,
       "month": 11,
-      "anomaly": -0.03
+      "anomaly": -0.02
     },
     {
       "year": 1923,
       "month": 12,
-      "anomaly": -0.04
+      "anomaly": -0.03
     },
     {
       "year": 1924,
       "month": 1,
-      "anomaly": -0.23
+      "anomaly": -0.22
     },
     {
       "year": 1924,
@@ -2657,7 +2657,7 @@
     {
       "year": 1924,
       "month": 3,
-      "anomaly": -0.09
+      "anomaly": -0.08
     },
     {
       "year": 1924,
@@ -2667,7 +2667,7 @@
     {
       "year": 1924,
       "month": 5,
-      "anomaly": -0.19
+      "anomaly": -0.18
     },
     {
       "year": 1924,
@@ -2697,7 +2697,7 @@
     {
       "year": 1924,
       "month": 11,
-      "anomaly": -0.21
+      "anomaly": -0.2
     },
     {
       "year": 1924,
@@ -2727,7 +2727,7 @@
     {
       "year": 1925,
       "month": 5,
-      "anomaly": -0.3
+      "anomaly": -0.29
     },
     {
       "year": 1925,
@@ -2752,7 +2752,7 @@
     {
       "year": 1925,
       "month": 10,
-      "anomaly": -0.18
+      "anomaly": -0.17
     },
     {
       "year": 1925,
@@ -2787,12 +2787,12 @@
     {
       "year": 1926,
       "month": 5,
-      "anomaly": -0.24
+      "anomaly": -0.23
     },
     {
       "year": 1926,
       "month": 6,
-      "anomaly": -0.27
+      "anomaly": -0.26
     },
     {
       "year": 1926,
@@ -2802,7 +2802,7 @@
     {
       "year": 1926,
       "month": 8,
-      "anomaly": -0.14
+      "anomaly": -0.13
     },
     {
       "year": 1926,
@@ -2827,7 +2827,7 @@
     {
       "year": 1927,
       "month": 1,
-      "anomaly": -0.28
+      "anomaly": -0.27
     },
     {
       "year": 1927,
@@ -2842,7 +2842,7 @@
     {
       "year": 1927,
       "month": 4,
-      "anomaly": -0.31
+      "anomaly": -0.3
     },
     {
       "year": 1927,
@@ -2877,7 +2877,7 @@
     {
       "year": 1927,
       "month": 11,
-      "anomaly": -0.06
+      "anomaly": -0.05
     },
     {
       "year": 1927,
@@ -2902,7 +2902,7 @@
     {
       "year": 1928,
       "month": 4,
-      "anomaly": -0.29
+      "anomaly": -0.28
     },
     {
       "year": 1928,
@@ -2922,7 +2922,7 @@
     {
       "year": 1928,
       "month": 8,
-      "anomaly": -0.23
+      "anomaly": -0.22
     },
     {
       "year": 1928,
@@ -2942,7 +2942,7 @@
     {
       "year": 1928,
       "month": 12,
-      "anomaly": -0.17
+      "anomaly": -0.16
     },
     {
       "year": 1929,
@@ -2972,7 +2972,7 @@
     {
       "year": 1929,
       "month": 6,
-      "anomaly": -0.44
+      "anomaly": -0.43
     },
     {
       "year": 1929,
@@ -3072,12 +3072,12 @@
     {
       "year": 1931,
       "month": 2,
-      "anomaly": -0.21
+      "anomaly": -0.2
     },
     {
       "year": 1931,
       "month": 3,
-      "anomaly": -0.11
+      "anomaly": -0.1
     },
     {
       "year": 1931,
@@ -3087,7 +3087,7 @@
     {
       "year": 1931,
       "month": 5,
-      "anomaly": -0.2
+      "anomaly": -0.19
     },
     {
       "year": 1931,
@@ -3097,7 +3097,7 @@
     {
       "year": 1931,
       "month": 7,
-      "anomaly": -0.04
+      "anomaly": -0.03
     },
     {
       "year": 1931,
@@ -3107,12 +3107,12 @@
     {
       "year": 1931,
       "month": 9,
-      "anomaly": -0.07
+      "anomaly": -0.06
     },
     {
       "year": 1931,
       "month": 10,
-      "anomaly": 0.05
+      "anomaly": 0.06
     },
     {
       "year": 1931,
@@ -3122,7 +3122,7 @@
     {
       "year": 1931,
       "month": 12,
-      "anomaly": -0.06
+      "anomaly": -0.05
     },
     {
       "year": 1932,
@@ -3132,7 +3132,7 @@
     {
       "year": 1932,
       "month": 2,
-      "anomaly": -0.18
+      "anomaly": -0.17
     },
     {
       "year": 1932,
@@ -3157,7 +3157,7 @@
     {
       "year": 1932,
       "month": 7,
-      "anomaly": -0.25
+      "anomaly": -0.24
     },
     {
       "year": 1932,
@@ -3177,7 +3177,7 @@
     {
       "year": 1932,
       "month": 11,
-      "anomaly": -0.28
+      "anomaly": -0.27
     },
     {
       "year": 1932,
@@ -3187,17 +3187,17 @@
     {
       "year": 1933,
       "month": 1,
-      "anomaly": -0.24
+      "anomaly": -0.23
     },
     {
       "year": 1933,
       "month": 2,
-      "anomaly": -0.3
+      "anomaly": -0.29
     },
     {
       "year": 1933,
       "month": 3,
-      "anomaly": -0.3
+      "anomaly": -0.29
     },
     {
       "year": 1933,
@@ -3247,7 +3247,7 @@
     {
       "year": 1934,
       "month": 1,
-      "anomaly": -0.22
+      "anomaly": -0.21
     },
     {
       "year": 1934,
@@ -3267,7 +3267,7 @@
     {
       "year": 1934,
       "month": 5,
-      "anomaly": -0.1
+      "anomaly": -0.09
     },
     {
       "year": 1934,
@@ -3277,7 +3277,7 @@
     {
       "year": 1934,
       "month": 7,
-      "anomaly": -0.1
+      "anomaly": -0.11
     },
     {
       "year": 1934,
@@ -3322,7 +3322,7 @@
     {
       "year": 1935,
       "month": 4,
-      "anomaly": -0.38
+      "anomaly": -0.37
     },
     {
       "year": 1935,
@@ -3457,7 +3457,7 @@
     {
       "year": 1937,
       "month": 7,
-      "anomaly": -0.03
+      "anomaly": -0.04
     },
     {
       "year": 1937,
@@ -3522,7 +3522,7 @@
     {
       "year": 1938,
       "month": 8,
-      "anomaly": -0.05
+      "anomaly": -0.06
     },
     {
       "year": 1938,
@@ -3547,12 +3547,12 @@
     {
       "year": 1939,
       "month": 1,
-      "anomaly": -0.05
+      "anomaly": -0.06
     },
     {
       "year": 1939,
       "month": 2,
-      "anomaly": -0.06
+      "anomaly": -0.07
     },
     {
       "year": 1939,
@@ -3567,7 +3567,7 @@
     {
       "year": 1939,
       "month": 5,
-      "anomaly": -0.05
+      "anomaly": -0.04
     },
     {
       "year": 1939,
@@ -3647,22 +3647,22 @@
     {
       "year": 1940,
       "month": 9,
-      "anomaly": 0.14
-    },
-    {
-      "year": 1940,
-      "month": 10,
-      "anomaly": 0.1
-    },
-    {
-      "year": 1940,
-      "month": 11,
       "anomaly": 0.15
     },
     {
       "year": 1940,
+      "month": 10,
+      "anomaly": 0.11
+    },
+    {
+      "year": 1940,
+      "month": 11,
+      "anomaly": 0.16
+    },
+    {
+      "year": 1940,
       "month": 12,
-      "anomaly": 0.3
+      "anomaly": 0.31
     },
     {
       "year": 1941,
@@ -3677,12 +3677,12 @@
     {
       "year": 1941,
       "month": 3,
-      "anomaly": 0.09
+      "anomaly": 0.1
     },
     {
       "year": 1941,
       "month": 4,
-      "anomaly": 0.15
+      "anomaly": 0.16
     },
     {
       "year": 1941,
@@ -3727,7 +3727,7 @@
     {
       "year": 1942,
       "month": 1,
-      "anomaly": 0.29
+      "anomaly": 0.28
     },
     {
       "year": 1942,
@@ -3822,7 +3822,7 @@
     {
       "year": 1943,
       "month": 8,
-      "anomaly": 0.01
+      "anomaly": 0.0
     },
     {
       "year": 1943,
@@ -3837,7 +3837,7 @@
     {
       "year": 1943,
       "month": 11,
-      "anomaly": 0.2
+      "anomaly": 0.19
     },
     {
       "year": 1943,
@@ -3847,7 +3847,7 @@
     {
       "year": 1944,
       "month": 1,
-      "anomaly": 0.35
+      "anomaly": 0.36
     },
     {
       "year": 1944,
@@ -4007,7 +4007,7 @@
     {
       "year": 1946,
       "month": 9,
-      "anomaly": -0.07
+      "anomaly": -0.08
     },
     {
       "year": 1946,
@@ -4077,7 +4077,7 @@
     {
       "year": 1947,
       "month": 11,
-      "anomaly": 0.03
+      "anomaly": 0.02
     },
     {
       "year": 1947,
@@ -4122,7 +4122,7 @@
     {
       "year": 1948,
       "month": 8,
-      "anomaly": -0.11
+      "anomaly": -0.12
     },
     {
       "year": 1948,
@@ -4147,7 +4147,7 @@
     {
       "year": 1949,
       "month": 1,
-      "anomaly": 0.07
+      "anomaly": 0.06
     },
     {
       "year": 1949,
@@ -4182,7 +4182,7 @@
     {
       "year": 1949,
       "month": 8,
-      "anomaly": -0.12
+      "anomaly": -0.13
     },
     {
       "year": 1949,
@@ -4207,7 +4207,7 @@
     {
       "year": 1950,
       "month": 1,
-      "anomaly": -0.26
+      "anomaly": -0.27
     },
     {
       "year": 1950,
@@ -4292,7 +4292,7 @@
     {
       "year": 1951,
       "month": 6,
-      "anomaly": -0.06
+      "anomaly": -0.07
     },
     {
       "year": 1951,
@@ -4357,7 +4357,7 @@
     {
       "year": 1952,
       "month": 7,
-      "anomaly": 0.05
+      "anomaly": 0.04
     },
     {
       "year": 1952,
@@ -4402,12 +4402,12 @@
     {
       "year": 1953,
       "month": 4,
-      "anomaly": 0.2
+      "anomaly": 0.19
     },
     {
       "year": 1953,
       "month": 5,
-      "anomaly": 0.12
+      "anomaly": 0.11
     },
     {
       "year": 1953,
@@ -4422,12 +4422,12 @@
     {
       "year": 1953,
       "month": 8,
-      "anomaly": 0.06
+      "anomaly": 0.05
     },
     {
       "year": 1953,
       "month": 9,
-      "anomaly": 0.05
+      "anomaly": 0.04
     },
     {
       "year": 1953,
@@ -4487,7 +4487,7 @@
     {
       "year": 1954,
       "month": 9,
-      "anomaly": -0.09
+      "anomaly": -0.1
     },
     {
       "year": 1954,
@@ -4582,7 +4582,7 @@
     {
       "year": 1956,
       "month": 4,
-      "anomaly": -0.27
+      "anomaly": -0.28
     },
     {
       "year": 1956,
@@ -4907,7 +4907,7 @@
     {
       "year": 1961,
       "month": 9,
-      "anomaly": 0.09
+      "anomaly": 0.08
     },
     {
       "year": 1961,
@@ -5177,7 +5177,7 @@
     {
       "year": 1966,
       "month": 3,
-      "anomaly": 0.03
+      "anomaly": 0.04
     },
     {
       "year": 1966,
@@ -5202,7 +5202,7 @@
     {
       "year": 1966,
       "month": 8,
-      "anomaly": -0.08
+      "anomaly": -0.09
     },
     {
       "year": 1966,
@@ -5217,7 +5217,7 @@
     {
       "year": 1966,
       "month": 11,
-      "anomaly": 0.0
+      "anomaly": -0.01
     },
     {
       "year": 1966,
@@ -5227,7 +5227,7 @@
     {
       "year": 1967,
       "month": 1,
-      "anomaly": -0.08
+      "anomaly": -0.07
     },
     {
       "year": 1967,
@@ -5302,7 +5302,7 @@
     {
       "year": 1968,
       "month": 4,
-      "anomaly": -0.05
+      "anomaly": -0.06
     },
     {
       "year": 1968,
@@ -5322,7 +5322,7 @@
     {
       "year": 1968,
       "month": 8,
-      "anomaly": -0.09
+      "anomaly": -0.08
     },
     {
       "year": 1968,
@@ -5342,7 +5342,7 @@
     {
       "year": 1968,
       "month": 12,
-      "anomaly": -0.15
+      "anomaly": -0.14
     },
     {
       "year": 1969,
@@ -5377,7 +5377,7 @@
     {
       "year": 1969,
       "month": 7,
-      "anomaly": -0.05
+      "anomaly": -0.04
     },
     {
       "year": 1969,
@@ -5527,7 +5527,7 @@
     {
       "year": 1972,
       "month": 1,
-      "anomaly": -0.23
+      "anomaly": -0.22
     },
     {
       "year": 1972,
@@ -5537,7 +5537,7 @@
     {
       "year": 1972,
       "month": 3,
-      "anomaly": 0.02
+      "anomaly": 0.03
     },
     {
       "year": 1972,
@@ -5557,7 +5557,7 @@
     {
       "year": 1972,
       "month": 7,
-      "anomaly": 0.01
+      "anomaly": 0.02
     },
     {
       "year": 1972,
@@ -5592,7 +5592,7 @@
     {
       "year": 1973,
       "month": 2,
-      "anomaly": 0.32
+      "anomaly": 0.33
     },
     {
       "year": 1973,
@@ -5662,7 +5662,7 @@
     {
       "year": 1974,
       "month": 4,
-      "anomaly": -0.12
+      "anomaly": -0.11
     },
     {
       "year": 1974,
@@ -5717,7 +5717,7 @@
     {
       "year": 1975,
       "month": 3,
-      "anomaly": 0.12
+      "anomaly": 0.13
     },
     {
       "year": 1975,
@@ -5787,7 +5787,7 @@
     {
       "year": 1976,
       "month": 5,
-      "anomaly": -0.21
+      "anomaly": -0.2
     },
     {
       "year": 1976,
@@ -5917,7 +5917,7 @@
     {
       "year": 1978,
       "month": 7,
-      "anomaly": 0.03
+      "anomaly": 0.04
     },
     {
       "year": 1978,
@@ -5977,12 +5977,12 @@
     {
       "year": 1979,
       "month": 7,
-      "anomaly": 0.03
+      "anomaly": 0.04
     },
     {
       "year": 1979,
       "month": 8,
-      "anomaly": 0.16
+      "anomaly": 0.17
     },
     {
       "year": 1979,
@@ -6007,7 +6007,7 @@
     {
       "year": 1980,
       "month": 1,
-      "anomaly": 0.29
+      "anomaly": 0.3
     },
     {
       "year": 1980,
@@ -6152,7 +6152,7 @@
     {
       "year": 1982,
       "month": 6,
-      "anomaly": 0.05
+      "anomaly": 0.06
     },
     {
       "year": 1982,
@@ -6197,7 +6197,7 @@
     {
       "year": 1983,
       "month": 3,
-      "anomaly": 0.41
+      "anomaly": 0.42
     },
     {
       "year": 1983,
@@ -6212,7 +6212,7 @@
     {
       "year": 1983,
       "month": 6,
-      "anomaly": 0.22
+      "anomaly": 0.23
     },
     {
       "year": 1983,
@@ -6222,7 +6222,7 @@
     {
       "year": 1983,
       "month": 8,
-      "anomaly": 0.35
+      "anomaly": 0.36
     },
     {
       "year": 1983,
@@ -6302,7 +6302,7 @@
     {
       "year": 1984,
       "month": 12,
-      "anomaly": -0.04
+      "anomaly": -0.05
     },
     {
       "year": 1985,
@@ -6352,7 +6352,7 @@
     {
       "year": 1985,
       "month": 10,
-      "anomaly": 0.12
+      "anomaly": 0.11
     },
     {
       "year": 1985,
@@ -6462,7 +6462,7 @@
     {
       "year": 1987,
       "month": 8,
-      "anomaly": 0.24
+      "anomaly": 0.25
     },
     {
       "year": 1987,
@@ -6552,7 +6552,7 @@
     {
       "year": 1989,
       "month": 2,
-      "anomaly": 0.3
+      "anomaly": 0.29
     },
     {
       "year": 1989,
@@ -6567,7 +6567,7 @@
     {
       "year": 1989,
       "month": 5,
-      "anomaly": 0.18
+      "anomaly": 0.17
     },
     {
       "year": 1989,
@@ -6697,7 +6697,7 @@
     {
       "year": 1991,
       "month": 7,
-      "anomaly": 0.48
+      "anomaly": 0.47
     },
     {
       "year": 1991,
@@ -6812,7 +6812,7 @@
     {
       "year": 1993,
       "month": 6,
-      "anomaly": 0.23
+      "anomaly": 0.22
     },
     {
       "year": 1993,
@@ -6992,7 +6992,7 @@
     {
       "year": 1996,
       "month": 6,
-      "anomaly": 0.25
+      "anomaly": 0.26
     },
     {
       "year": 1996,
@@ -7032,7 +7032,7 @@
     {
       "year": 1997,
       "month": 2,
-      "anomaly": 0.41
+      "anomaly": 0.4
     },
     {
       "year": 1997,
@@ -7042,7 +7042,7 @@
     {
       "year": 1997,
       "month": 4,
-      "anomaly": 0.34
+      "anomaly": 0.33
     },
     {
       "year": 1997,
@@ -7162,7 +7162,7 @@
     {
       "year": 1999,
       "month": 4,
-      "anomaly": 0.31
+      "anomaly": 0.32
     },
     {
       "year": 1999,
@@ -7177,7 +7177,7 @@
     {
       "year": 1999,
       "month": 7,
-      "anomaly": 0.39
+      "anomaly": 0.38
     },
     {
       "year": 1999,
@@ -7212,7 +7212,7 @@
     {
       "year": 2000,
       "month": 2,
-      "anomaly": 0.56
+      "anomaly": 0.55
     },
     {
       "year": 2000,
@@ -7412,7 +7412,7 @@
     {
       "year": 2003,
       "month": 6,
-      "anomaly": 0.47
+      "anomaly": 0.48
     },
     {
       "year": 2003,
@@ -7477,7 +7477,7 @@
     {
       "year": 2004,
       "month": 7,
-      "anomaly": 0.25
+      "anomaly": 0.26
     },
     {
       "year": 2004,
@@ -7527,7 +7527,7 @@
     {
       "year": 2005,
       "month": 5,
-      "anomaly": 0.62
+      "anomaly": 0.63
     },
     {
       "year": 2005,
@@ -7592,7 +7592,7 @@
     {
       "year": 2006,
       "month": 6,
-      "anomaly": 0.66
+      "anomaly": 0.67
     },
     {
       "year": 2006,
@@ -7612,12 +7612,12 @@
     {
       "year": 2006,
       "month": 10,
-      "anomaly": 0.7
+      "anomaly": 0.71
     },
     {
       "year": 2006,
       "month": 11,
-      "anomaly": 0.73
+      "anomaly": 0.74
     },
     {
       "year": 2006,
@@ -7637,7 +7637,7 @@
     {
       "year": 2007,
       "month": 3,
-      "anomaly": 0.71
+      "anomaly": 0.72
     },
     {
       "year": 2007,
@@ -7667,7 +7667,7 @@
     {
       "year": 2007,
       "month": 9,
-      "anomaly": 0.6
+      "anomaly": 0.61
     },
     {
       "year": 2007,
@@ -7712,7 +7712,7 @@
     {
       "year": 2008,
       "month": 6,
-      "anomaly": 0.49
+      "anomaly": 0.5
     },
     {
       "year": 2008,
@@ -7727,7 +7727,7 @@
     {
       "year": 2008,
       "month": 9,
-      "anomaly": 0.6
+      "anomaly": 0.61
     },
     {
       "year": 2008,
@@ -7737,7 +7737,7 @@
     {
       "year": 2008,
       "month": 11,
-      "anomaly": 0.69
+      "anomaly": 0.7
     },
     {
       "year": 2008,
@@ -7807,7 +7807,7 @@
     {
       "year": 2010,
       "month": 1,
-      "anomaly": 0.74
+      "anomaly": 0.75
     },
     {
       "year": 2010,
@@ -7832,7 +7832,7 @@
     {
       "year": 2010,
       "month": 6,
-      "anomaly": 0.67
+      "anomaly": 0.68
     },
     {
       "year": 2010,
@@ -7857,7 +7857,7 @@
     {
       "year": 2010,
       "month": 11,
-      "anomaly": 0.81
+      "anomaly": 0.82
     },
     {
       "year": 2010,
@@ -7897,7 +7897,7 @@
     {
       "year": 2011,
       "month": 7,
-      "anomaly": 0.7
+      "anomaly": 0.71
     },
     {
       "year": 2011,
@@ -7982,7 +7982,7 @@
     {
       "year": 2012,
       "month": 12,
-      "anomaly": 0.52
+      "anomaly": 0.53
     },
     {
       "year": 2013,
@@ -8022,12 +8022,12 @@
     {
       "year": 2013,
       "month": 8,
-      "anomaly": 0.7
+      "anomaly": 0.71
     },
     {
       "year": 2013,
       "month": 9,
-      "anomaly": 0.76
+      "anomaly": 0.77
     },
     {
       "year": 2013,
@@ -8082,7 +8082,7 @@
     {
       "year": 2014,
       "month": 8,
-      "anomaly": 0.83
+      "anomaly": 0.84
     },
     {
       "year": 2014,
@@ -8152,7 +8152,7 @@
     {
       "year": 2015,
       "month": 10,
-      "anomaly": 1.07
+      "anomaly": 1.08
     },
     {
       "year": 2015,
@@ -8192,7 +8192,7 @@
     {
       "year": 2016,
       "month": 6,
-      "anomaly": 0.81
+      "anomaly": 0.8
     },
     {
       "year": 2016,
@@ -8202,7 +8202,7 @@
     {
       "year": 2016,
       "month": 8,
-      "anomaly": 1.01
+      "anomaly": 1.02
     },
     {
       "year": 2016,
@@ -8292,7 +8292,7 @@
     {
       "year": 2018,
       "month": 2,
-      "anomaly": 0.84
+      "anomaly": 0.85
     },
     {
       "year": 2018,
@@ -8312,7 +8312,7 @@
     {
       "year": 2018,
       "month": 6,
-      "anomaly": 0.76
+      "anomaly": 0.77
     },
     {
       "year": 2018,
@@ -8342,7 +8342,7 @@
     {
       "year": 2018,
       "month": 12,
-      "anomaly": 0.93
+      "anomaly": 0.92
     },
     {
       "year": 2019,
@@ -8492,7 +8492,7 @@
     {
       "year": 2021,
       "month": 6,
-      "anomaly": 0.84
+      "anomaly": 0.85
     },
     {
       "year": 2021,
@@ -8652,7 +8652,7 @@
     {
       "year": 2024,
       "month": 2,
-      "anomaly": 1.43
+      "anomaly": 1.44
     },
     {
       "year": 2024,
@@ -8662,7 +8662,7 @@
     {
       "year": 2024,
       "month": 4,
-      "anomaly": 1.32
+      "anomaly": 1.31
     },
     {
       "year": 2024,
@@ -8742,7 +8742,7 @@
     {
       "year": 2025,
       "month": 8,
-      "anomaly": 1.17
+      "anomaly": 1.18
     },
     {
       "year": 2025,
@@ -8772,7 +8772,7 @@
     {
       "year": 2026,
       "month": 2,
-      "anomaly": 1.25
+      "anomaly": 1.24
     },
     {
       "year": 2026,
@@ -8793,6 +8793,11 @@
       "year": 2026,
       "month": 6,
       "anomaly": 1.18
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "anomaly": 1.23
     }
   ]
 }
